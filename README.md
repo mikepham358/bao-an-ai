@@ -13,6 +13,10 @@
 
 ---
 
+🌐 **Ngôn ngữ / Languages:** **Tiếng Việt (Bản chuẩn)** | [English (Global Edition)](README_EN.md)
+
+---
+
 ## 📌 1. TỔNG QUAN VỀ MÔ HÌNH
 
 Trước sự bùng nổ của trí tuệ nhân tạo (AI), học sinh rất dễ rơi vào thói quen **ỷ lại, nhờ AI làm bài hộ**, dẫn đến lười suy nghĩ và suy giảm tư duy độc lập. Các văn bản chỉ đạo của Bộ Giáo dục & Đào tạo (Thông tư 18/2026/TT-BGDĐT, Công văn 2422/BGDĐT-CNTT) và khung năng lực AI của UNESCO đều nhấn mạnh: **nhà trường phải xây dựng văn hóa liêm chính và hướng dẫn học sinh làm chủ công nghệ một cách an toàn**.
@@ -132,23 +136,30 @@ Toàn bộ tài liệu chính thức đều có sẵn trong thư mục của kho
 
 ```text
 student-led-ai-safety-competency-framework/
-├── README.md                                  # Tài liệu hướng dẫn tổng quan toàn bộ mô hình
+├── README.md                                  # Tài liệu hướng dẫn tổng quan toàn bộ mô hình (Bản chuẩn Tiếng Việt)
+├── README_EN.md                               # Global Framework Overview & Specifications (English Edition)
 ├── LICENSE                                    # Bản quyền mã nguồn mở MIT (dùng miễn phí)
 ├── assets/                                    # Hình ảnh và sơ đồ trực quan
 │   ├── He_Thong_Hoa_Mo_Hinh.png              # Sơ đồ hệ thống hóa mô hình độ phân giải cao
 │   ├── framework_diagram.jpg                 # Sơ đồ tổng thể 4 chặng hành trình
+│   ├── framework_diagram.png                 # Sơ đồ quy trình tổng quan
 │   └── framework_architecture.png            # Kiến trúc công nghệ an toàn
 ├── docs/                                      # Tài liệu văn bản hướng dẫn chi tiết
 │   ├── Bai_Trinh_Chieu_15_Slides.pdf          # File PDF bài thuyết trình chính thức (15 slide chuẩn RMIT)
 │   ├── Poster_Gioi_Thieu_San_Pham.pdf         # File PDF Poster tóm tắt sáng kiến
 │   ├── Cam_Nang_Huong_Dan_Trien_Khai_Va_Dao_Tao_Nhan_Rong_Mo_Hinh.docx # Cẩm nang triển khai đầy đủ
 │   ├── Ho_So_Minh_Chung_Nang_Luc_Cua_Nhom_Du_An_Vin_Beyond_AI.docx      # Hồ sơ minh chứng năng lực
-│   ├── 01_Huong_Dan_Trien_Khai_Hoc_Duong.md   # Hướng dẫn chi tiết 4 chặng cho trường học
-│   ├── 02_Khung_Cam_Ket_AI_Norms_UNESCO.md    # Mẫu bản cam kết văn hóa sử dụng AI an toàn
-│   └── 05_AI_Hackathon_Scorecard_Rubric.md    # Bảng tiêu chí chấm điểm cuộc thi ngày hội
+│   ├── 01_Huong_Dan_Trien_Khai_Hoc_Duong.md   # Hướng dẫn chi tiết 4 chặng cho trường học (Tiếng Việt)
+│   ├── 01_K12_Implementation_Guide_EN.md     # 4-Stage K-12 Implementation Roadmap (English)
+│   ├── 02_Khung_Cam_Ket_AI_Norms_UNESCO.md    # Mẫu bản cam kết văn hóa sử dụng AI an toàn (Tiếng Việt)
+│   ├── 02_UNESCO_AI_Norms_Charter_EN.md       # Ethical AI & Data Privacy Student Charter (English)
+│   ├── 05_AI_Hackathon_Scorecard_Rubric.md    # Bảng tiêu chí chấm điểm cuộc thi ngày hội (Tiếng Việt)
+│   └── 05_AI_Appathon_Scorecard_Rubric_EN.md  # 100-Point Evaluation Rubric (English)
 └── templates/                                 # Mẫu biểu và câu lệnh dùng ngay
-    ├── Budget_Pitching_PR_Template.md         # Mẫu kế hoạch dự toán kinh phí gọi vốn 15-20 triệu
-    └── Socratic_Prompt_PARTS_Templates.md     # Mẫu câu lệnh gia sư gợi mở cho Gemini & Notebook
+    ├── Budget_Pitching_PR_Template.md         # Mẫu kế hoạch dự toán kinh phí gọi vốn 15-20 triệu (Tiếng Việt)
+    ├── Budget_Pitching_PR_Template_EN.md      # School Pitching & Tiered Budget Template (English)
+    ├── Socratic_Prompt_PARTS_Templates.md     # Mẫu câu lệnh gia sư gợi mở cho Gemini & Notebook (Tiếng Việt)
+    └── Socratic_Prompt_PARTS_Templates_EN.md  # Socratic PARTS Prompt Engineering Templates (English)
 ```
 
 ---
