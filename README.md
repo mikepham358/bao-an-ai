@@ -174,10 +174,10 @@ student-led-ai-safety-competency-framework/
 
 ## 👨‍🏫 9. TÁC GIẢ & GIÁO VIÊN CỐ VẤN CHUYÊN MÔN
 
-* **ThS. Phạm Bá Hồng Sơn (Mike Pham)**
+* **Phạm Bá Hồng Sơn (Mike Pham)**
 * **Danh hiệu & Học vị:** 
-  * Chuyên gia Giáo dục Đổi mới Sáng tạo của Google (*Google for Education Certified Innovator - #MEL26, Melbourne Australia*)
-  * Thạc sĩ Giáo dục (*M.Ed - Phần Lan*) • Học viên Cao học Viện Sư phạm Kỹ thuật TP. Hồ Chí Minh
+  * Chuyên gia giáo dục chính thức của Google: [edudirectory.withgoogle.com/profiles/5087615831769088](https://edudirectory.withgoogle.com/profiles/5087615831769088) (*Google for Education Certified Innovator - #MEL26, Melbourne Australia*)
+  * Học viên Cao học Viện Sư phạm Kỹ thuật TP. Hồ Chí Minh
   * Tác giả bài báo khoa học quốc tế chuẩn **Scopus Q1** (Hội nghị Quốc tế IEEE iSTEM-Ed 2026)
 * **Đơn vị công tác:** giáo viên bộ môn SAT, tổ Tiếng Anh (ESL), trường THPT Vinschool Grand Park, TP. Thủ Đức, TP. Hồ Chí Minh.
 * **Email liên hệ:** mikepham358@gmail.com

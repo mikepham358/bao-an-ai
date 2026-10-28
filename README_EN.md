@@ -177,10 +177,10 @@ This framework and all associated Open Educational Resources (OER) are published
 
 ## 👨‍🏫 9. AUTHOR & ACADEMIC MENTOR
 
-* **M.Ed. Pham Ba Hong Son (Mike Pham)**
+* **Pham Ba Hong Son (Mike Pham)**
 * **Credentials & Academic Affiliations:**
-  * Google for Education Certified Innovator (*#MEL26, Melbourne Australia*)
-  * Master of Education (*M.Ed - Finland*) • Postgraduate Researcher, Ho Chi Minh City University of Technology and Education (HCMUTE)
+  * Official Google for Education Certified Innovator: [edudirectory.withgoogle.com/profiles/5087615831769088](https://edudirectory.withgoogle.com/profiles/5087615831769088) (*#MEL26, Melbourne Australia*)
+  * Postgraduate Researcher, Institute of Technical Education, Ho Chi Minh City University of Technology and Education (HCMUTE)
   * Author of Scopus Q1-indexed research paper presented at the **IEEE iSTEM-Ed 2026** International Conference
 * **Institutional Role:** SAT Educator, English (ESL) Department, Vinschool Grand Park High School, Thu Duc City, Ho Chi Minh City, Vietnam.
 * **Email:** mikepham358@gmail.com

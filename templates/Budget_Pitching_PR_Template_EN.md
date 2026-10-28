@@ -2,7 +2,7 @@
 ### (Student Project Funding Proposal • Target Budget: 15,000,000 to 19,500,000 VND / ~600 to 800 USD)
 * **Core Pilot Project:** VIN BEYOND AI (Student Pioneer Club)
 * **Sponsoring Institution:** Vinschool Grand Park High School, Ho Chi Minh City, Vietnam
-* **Faculty Advisor:** M.Ed. Pham Ba Hong Son (Mike Pham), Google for Education Certified Innovator
+* **Faculty Advisor:** Pham Ba Hong Son (Mike Pham), Google for Education Certified Innovator
 
 ---
 

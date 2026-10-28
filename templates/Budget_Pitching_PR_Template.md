@@ -2,7 +2,7 @@
 ### (Kế Hoạch Xin Kinh Phí Vận Hành Dự Án Học Sinh, Mức Đề Xuất: 15.000.000 đến 19.500.000 VNĐ)
 * **Dự án nòng cốt:** VIN BEYOND AI, câu lạc bộ học sinh tiên phong AI
 * **Đơn vị bảo trợ:** trường THPT Vinschool Grand Park, TP. Hồ Chí Minh
-* **Giáo viên cố vấn chuyên môn:** ThS. Phạm Bá Hồng Sơn (Mike Pham), chuyên gia giáo dục đổi mới sáng tạo của Google
+* **Giáo viên cố vấn chuyên môn:** Phạm Bá Hồng Sơn (Mike Pham), chuyên gia giáo dục đổi mới sáng tạo của Google
 
 ---
 
@@ -84,4 +84,4 @@ Nhóm học sinh xây dựng 5 kịch bản kinh phí từ tối thiểu đến 
 | ĐẠI DIỆN HỌC SINH NHÓM DỰ ÁN | GIÁO VIÊN CỐ VẤN CHUYÊN MÔN | PHÊ DUYỆT CỦA BAN GIÁM HIỆU |
 | :---: | :---: | :---: |
 | *(Đã ký & xác thực bảo mật)* | *(Đã ký)* | *(Ký và đóng dấu)* |
-| **Ban Điều Hành Học Sinh (Trưởng Dự án)**<br/>*Dự án VIN BEYOND AI* | **ThS. Phạm Bá Hồng Sơn (Mike Pham)**<br/>*Google for Education Certified Innovator* | **Đại Diện Ban Giám Hiệu**<br/>*Trường THPT Vinschool Grand Park* |
+| **Ban Điều Hành Học Sinh (Trưởng Dự án)**<br/>*Dự án VIN BEYOND AI* | **Phạm Bá Hồng Sơn (Mike Pham)**<br/>*Google for Education Certified Innovator* | **Đại Diện Ban Giám Hiệu**<br/>*Trường THPT Vinschool Grand Park* |
