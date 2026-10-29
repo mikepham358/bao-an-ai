@@ -1,8 +1,8 @@
 # MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO DO HỌC SINH LÀM CHỦ
 ### (Student-Led AI Safety Competency Framework)
-**Mô Hình Hội Thảo Năng Lực AI & Ngày Hội Sáng Tạo Ứng Dụng Học Tập AI An Toàn Dành Cho Học Sinh Phổ Thông**  
-*Dự án hạt nhân thực nghiệm: VIN BEYOND AI, khẩu hiệu: "AI An Toàn, Tư Duy Vững Vàng" (Safe AI, Stronger Minds)*  
-*Đơn vị triển khai: trường THPT Vinschool Grand Park, TP. Thủ Đức, TP. Hồ Chí Minh*
+**Khung Năng Lực Hội Thảo & Ngày Hội Sáng Tạo Ứng Dụng Học Tập AI An Toàn Dành Cho Học Sinh Phổ Thông**  
+*Mô hình phát triển năng lực số và bảo an AI phổ quát, sẵn sàng nhân rộng cho các trường phổ thông và tổ chức giáo dục*  
+*Ươm mầm thực nghiệm từ Câu lạc bộ học sinh tiên phong: VIN BEYOND AI • Khẩu hiệu: "AI An Toàn, Tư Duy Vững Vàng" (Safe AI, Stronger Minds)*
 
 [![Bản quyền: MIT](https://img.shields.io/badge/B%E1%BA%A3n%20quy%E1%BB%81n-MIT%20License-yellow.svg)](LICENSE)
 [![Khung năng lực: UNESCO 2024](https://img.shields.io/badge/Khung%20n%C4%83ng%20l%E1%BB%B1c-UNESCO%20AI%202024-blue.svg)](https://unesco.org)
@@ -21,7 +21,9 @@
 
 Trước sự bùng nổ của trí tuệ nhân tạo (AI), học sinh rất dễ rơi vào thói quen **ỷ lại, nhờ AI làm bài hộ**, dẫn đến lười suy nghĩ và suy giảm tư duy độc lập. Các văn bản chỉ đạo của Bộ Giáo dục & Đào tạo (Thông tư 18/2026/TT-BGDĐT, Công văn 2422/BGDĐT-CNTT) và khung năng lực AI của UNESCO đều nhấn mạnh: **nhà trường phải xây dựng văn hóa liêm chính và hướng dẫn học sinh làm chủ công nghệ một cách an toàn**.
 
-Thay vì cấm đoán hoặc áp đặt quy định từ trên xuống, sáng kiến này lựa chọn một cách tiếp cận đột phá: **trao toàn bộ quyền chủ động cho học sinh**. Một nhóm học sinh nòng cốt sẽ tự đứng ra lập đề án gọi vốn tại trường, thiết kế bộ thử thách thực tế, trực tiếp đứng lớp hướng dẫn cho các bạn học sinh toàn trường và điều hành ngày hội sáng tạo ứng dụng học tập AI an toàn.
+Thay vì cấm đoán hoặc áp đặt quy định từ trên xuống, sáng kiến này lựa chọn một cách tiếp cận đột phá: **trao toàn bộ quyền chủ động cho học sinh**. Khởi đầu từ hạt nhân là câu lạc bộ học sinh tiên phong (VIN BEYOND AI), mô hình trao quyền để nhóm học sinh nòng cốt tự đứng ra lập đề án gọi vốn tại trường, thiết kế bộ thử thách thực tế, trực tiếp đứng lớp hướng dẫn cho các bạn học sinh và điều hành ngày hội sáng tạo ứng dụng học tập AI an toàn.
+
+Mô hình được chuẩn hóa theo cấu trúc mở, có khả năng tùy biến linh hoạt để mọi trường phổ thông, trung tâm giáo dục hay câu lạc bộ STEM đều có thể dễ dàng áp dụng phù hợp với điều kiện thực tế của đơn vị mình.
 
 ![Sơ đồ tổng quan mô hình](assets/framework_diagram.png)
 
@@ -49,7 +51,7 @@ Mô hình được xây dựng dựa trên thông điệp xuất phát từ chí
 
 ## 🏗️ 3. SƠ ĐỒ HỆ THỐNG HÓA MÔ HÌNH
 
-Toàn bộ mô hình đã được đóng gói thành một quy trình khép kín, bài bản và có thể nhân rộng tại bất kỳ trường học nào:
+Toàn bộ mô hình đã được đóng gói thành một quy trình khép kín, bài bản và có thể nhân rộng tại bất kỳ trường học hay tổ chức giáo dục nào:
 
 ![Sơ đồ hệ thống hóa mô hình](assets/He_Thong_Hoa_Mo_Hinh.png)
 
@@ -61,7 +63,7 @@ Toàn bộ mô hình đã được đóng gói thành một quy trình khép kí
 5. **Cộng đồng cùng sáng tạo:** thu hút 80–100 học sinh (20 đội) cùng giáo viên và cha mẹ học sinh đồng hành thiết kế ứng dụng.
 6. **Kiểm soát câu lệnh chặt chẽ:** ràng buộc AI chỉ được gợi mở theo nguồn sách chuẩn xác, tuyệt đối không làm bài thay.
 7. **Trình diễn và phản biện:** các đội thi tự tin bảo vệ nguyên mẫu ứng dụng trước hội đồng giám khảo để kiểm tra tính an toàn.
-8. **Đóng gói và chuyển giao:** toàn bộ cẩm nang và mã nguồn được chia sẻ miễn phí để kết nối liên minh trường học từ năm 2027.
+8. **Đóng gói và chuyển giao:** toàn bộ cẩm nang và mã nguồn được chia sẻ miễn phí dưới dạng Tài nguyên Giáo dục Mở (OER), sẵn sàng chuyển giao cho mạng lưới các trường học và tổ chức giáo dục cùng triển khai từ năm 2027.
 
 ---
 
@@ -116,17 +118,17 @@ flowchart LR
 
 ---
 
-## 📊 6. KẾT QUẢ THỰC NGHIỆM & MỤC TIÊU CAM KẾT
+## 📊 6. KẾT QUẢ THỰC NGHIỆM & MỤC TIÊU PHÁT TRIỂN
 
-Mô hình đã được thử nghiệm thực tế với các kết quả ấn tượng:
+Mô hình đã được thử nghiệm thực tế thành công ở cấp độ câu lạc bộ hạt nhân (Dự án VIN BEYOND AI) với các kết quả ấn tượng:
 * **4 Nguyên mẫu học tập an toàn đã hoàn thiện và kiểm thử thành công:**
   1. *Trợ lý luyện thi SAT:* hướng dẫn phân tích bẫy đọc hiểu, suy luận từ vựng và phương pháp loại trừ.
   2. *Gia sư Toán tư duy:* gợi mở từng bước biến đổi đại số và hình học, kiên quyết không giải hộ.
   3. *Cố vấn dự án STEAM:* định hướng ý tưởng, lập kế hoạch nghiên cứu và kiểm tra độ tin cậy của tài liệu.
   4. *Sổ tay an toàn số bỏ túi:* hướng dẫn học sinh nhận biết tin giả, tránh lộ dữ liệu cá nhân trên mạng.
-* **100% học sinh nòng cốt ký cam kết an toàn:** đạt chuẩn khung năng lực AI của UNESCO và quy định của Bộ Giáo dục & Đào tạo.
+* **100% học sinh tham gia ký cam kết an toàn:** đạt chuẩn khung năng lực AI của UNESCO và quy định của Bộ Giáo dục & Đào tạo.
 * **Cơ sở khoa học quốc tế uy tín:** sáng kiến có bài báo khoa học chuẩn **Scopus Q1** được báo cáo tại Hội nghị Quốc tế IEEE iSTEM-Ed 2026, chứng minh hiệu quả thực tế của phản hồi AI gợi mở đối với học sinh phổ thông.
-* **Mục tiêu cam kết:** thu hút 80–100 học sinh (20 đội thi), đạt trên 85% mức độ hài lòng và 80% nâng cao năng lực tự chủ số.
+* **Mục tiêu phổ quát tương lai:** nhân rộng mô hình từ quy mô câu lạc bộ ra toàn trường và mạng lưới các trường học, tổ chức giáo dục đối tác, hướng tới thu hút 80–100 học sinh (20 đội thi) mỗi sự kiện, đạt trên 85% mức độ hài lòng và 80% nâng cao năng lực tự chủ số của người học.
 
 ---
 
@@ -167,7 +169,7 @@ student-led-ai-safety-competency-framework/
 ## 📜 8. BẢN QUYỀN MÃ NGUỒN MỞ (MIT LICENSE)
 
 Đề án được phát hành hoàn toàn miễn phí dưới giấy phép **[MIT License](LICENSE)**:
-* ✅ Mọi trường phổ thông, thầy cô giáo và học sinh đều có quyền tự do tải về, sử dụng, sao chép và điều chỉnh cho phù hợp với trường mình.
+* ✅ Mọi trường phổ thông, tổ chức giáo dục, thầy cô giáo và học sinh đều có quyền tự do tải về, sử dụng, sao chép và điều chỉnh cho phù hợp với đơn vị mình.
 * ✅ Không thu bất kỳ khoản phí bản quyền nào, hướng đến mục tiêu xây dựng một cộng đồng giáo dục an toàn và nhân văn.
 
 ---
@@ -179,7 +181,7 @@ student-led-ai-safety-competency-framework/
   * Chuyên gia giáo dục chính thức của Google: [edudirectory.withgoogle.com/profiles/5087615831769088](https://edudirectory.withgoogle.com/profiles/5087615831769088) (*Google for Education Certified Innovator - #MEL26, Melbourne Australia*)
   * Học viên Cao học Viện Sư phạm Kỹ thuật TP. Hồ Chí Minh
   * Tác giả bài báo khoa học quốc tế chuẩn **Scopus Q1** (Hội nghị Quốc tế IEEE iSTEM-Ed 2026)
-* **Đơn vị công tác:** giáo viên bộ môn SAT, tổ Tiếng Anh (ESL), trường THPT Vinschool Grand Park, TP. Thủ Đức, TP. Hồ Chí Minh.
+* **Lĩnh vực hoạt động:** Giáo viên bộ môn SAT, Cố vấn Chuyên môn Đổi mới Sáng tạo & Công nghệ Giáo dục, TP. Hồ Chí Minh.
 * **Email liên hệ:** mikepham358@gmail.com
 * **Kho mã nguồn GitHub:** [github.com/mikepham358/student-led-ai-safety-competency-framework](https://github.com/mikepham358/student-led-ai-safety-competency-framework)
 

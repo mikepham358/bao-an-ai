@@ -1,8 +1,7 @@
 # STUDENT-LED AI SAFETY COMPETENCY FRAMEWORK
 ### Open Educational Resources (OER) for K-12 AI Capacity Building & Safe Learning Appathons
-**A Student-Led Workshop Series & Safe AI Innovation Hackathon Model for Secondary Education**  
-*Pilot Incubation: VIN BEYOND AI — Motto: "Safe AI, Stronger Minds"*  
-*Host Institution: Vinschool Grand Park High School, Thu Duc City, Ho Chi Minh City, Vietnam*
+**A Universal Framework for Secondary Schools, Learning Communities & Educational Organizations**  
+*Incubated by the VIN BEYOND AI Student Pioneer Club — Motto: "Safe AI, Stronger Minds"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Competency Framework: UNESCO 2024](https://img.shields.io/badge/Competency%20Framework-UNESCO%20AI%202024-blue.svg)](https://unesco.org)
@@ -24,7 +23,9 @@ In the era of Generative AI, K-12 students face a pervasive cognitive risk: **pa
 
 Both the **UNESCO AI Competency Framework for Students (2024)** and the **Ministry of Education and Training of Vietnam (Circular 18/2026/TT-BGDĐT & Official Dispatch 2422/BGDĐT-CNTT)** mandate that schools establish rigorous ethical norms and empower learners to safely govern emerging technologies.
 
-Rather than imposing restrictive top-down bans, this initiative introduces a disruptive, student-centered paradigm: **total empowerment through student agency**. A student-led core leadership team formulates formal funding proposals, defends budgets before school leadership, develops authentic academic challenges, leads peer-to-peer workshops, and orchestrates a school-wide **Safe AI Appathon (Hackathon)**.
+Rather than imposing restrictive top-down bans, this initiative introduces a disruptive, student-centered paradigm: **total empowerment through student agency**. Incubated initially within a pioneering student tech club (VIN BEYOND AI), the model empowers core student leaders to formulate formal micro-grant proposals, design authentic academic challenges, lead peer-to-peer workshops, and orchestrate school-wide **Safe AI Appathons (Hackathons)**.
+
+The framework is modular, openly accessible, and universally adaptable for any secondary school, educational institution, or learning community worldwide.
 
 ![High-Level Framework Diagram](assets/framework_diagram.png)
 
@@ -129,7 +130,7 @@ The framework has undergone rigorous classroom piloting with demonstrated pedago
   4. *Pocket Digital Safety Guide:* Educates peers on detecting algorithmic bias, deepfakes, and privacy vulnerabilities.
 * **100% Student-Led Ethical Pledge Compliance:** Complete alignment with UNESCO 2024 AI competencies and national education policies.
 * **International Academic Publication:** Scopus Q1-indexed empirical study presented at the **IEEE iSTEM-Ed 2026 International Conference**, providing empirical evidence on the cognitive efficacy of Socratic AI feedback in secondary education.
-* **Key Performance Indicators:** 80–100 participants (20 teams), >85% user satisfaction rate, and >80% increase in student digital agency and self-efficacy.
+* **Future Universal Scaling Targets:** Expanding the club-incubated model into campus-wide and inter-school networks, targeting 80–100 participants (20 teams) per cycle, >85% user satisfaction rate, and >80% increase in student digital agency and self-efficacy.
 
 ---
 
@@ -170,7 +171,7 @@ student-led-ai-safety-competency-framework/
 ## 📜 8. OPEN-SOURCE MIT LICENSE
 
 This framework and all associated Open Educational Resources (OER) are published under the **[MIT License](LICENSE)**:
-* ✅ Free for all secondary schools, educators, researchers, and students to download, adapt, translate, and deploy.
+* ✅ Free for all secondary schools, educational organizations, educators, researchers, and students to download, adapt, translate, and deploy.
 * ✅ Zero licensing fees, dedicated to advancing equitable, safe, and human-centered AI education globally.
 
 ---
@@ -182,7 +183,7 @@ This framework and all associated Open Educational Resources (OER) are published
   * Official Google for Education Certified Innovator: [edudirectory.withgoogle.com/profiles/5087615831769088](https://edudirectory.withgoogle.com/profiles/5087615831769088) (*#MEL26, Melbourne Australia*)
   * Postgraduate Researcher, Institute of Technical Education, Ho Chi Minh City University of Technology and Education (HCMUTE)
   * Author of Scopus Q1-indexed research paper presented at the **IEEE iSTEM-Ed 2026** International Conference
-* **Institutional Role:** SAT Educator, English (ESL) Department, Vinschool Grand Park High School, Thu Duc City, Ho Chi Minh City, Vietnam.
+* **Professional Domain:** SAT Educator, EdTech Innovation & Educational Researcher, Ho Chi Minh City, Vietnam.
 * **Email:** mikepham358@gmail.com
 * **GitHub Repository:** [github.com/mikepham358/student-led-ai-safety-competency-framework](https://github.com/mikepham358/student-led-ai-safety-competency-framework)
 

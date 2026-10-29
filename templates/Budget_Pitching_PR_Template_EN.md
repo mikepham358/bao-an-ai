@@ -1,7 +1,7 @@
 # K-12 OPERATIONAL BUDGET & PROPOSAL PITCHING TEMPLATE
 ### (Student Project Funding Proposal • Target Budget: 15,000,000 to 19,500,000 VND / ~600 to 800 USD)
-* **Core Pilot Project:** VIN BEYOND AI (Student Pioneer Club)
-* **Sponsoring Institution:** Vinschool Grand Park High School, Ho Chi Minh City, Vietnam
+* **Initiating Project:** Student AI Pioneer Club (Pilot Incubator: VIN BEYOND AI)
+* **Sponsoring Institution:** [High School / Educational Organization Name]
 * **Faculty Advisor:** Pham Ba Hong Son (Mike Pham), Google for Education Certified Innovator
 
 ---
