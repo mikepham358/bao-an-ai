@@ -15,7 +15,7 @@
 
 🌐 **Languages / Ngôn ngữ:** [Tiếng Việt (Bản chuẩn)](README.md) | **English (Global Edition)**
 
-> 🔒 **Copyright Notice:** © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "Student-Led AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" is protected under the Intellectual Property Law of Vietnam and the Berne Convention.
+> 🔒 **Copyright Notice:** © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" is protected under the Intellectual Property Law of Vietnam and the Berne Convention.
 
 ---
 
@@ -172,7 +172,7 @@ student-led-ai-safety-competency-framework/
 
 ## 📜 8. COPYRIGHT & OPEN-SOURCE MIT LICENSE
 
-> **© 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "Student-Led AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" is protected under the Intellectual Property Law of Vietnam and the Berne Convention.**
+> **© 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" is protected under the Intellectual Property Law of Vietnam and the Berne Convention.**
 
 This framework and all associated Open Educational Resources (OER) are published under the **[MIT License](LICENSE)**:
 * ✅ Free for all secondary schools, educational organizations, educators, researchers, and students to download, adapt, translate, and deploy.

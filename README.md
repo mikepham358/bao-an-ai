@@ -15,7 +15,7 @@
 
 🌐 **Ngôn ngữ / Languages:** **Tiếng Việt (Bản chuẩn)** | [English (Global Edition)](README_EN.md)
 
-> 🔒 **Thông báo bản quyền:** © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (Student-Led AI Safety Competency Framework)" được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
+> 🔒 **Thông báo bản quyền:** © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
 
 ---
 
@@ -170,7 +170,7 @@ student-led-ai-safety-competency-framework/
 
 ## 📜 8. BẢN QUYỀN TÁC GIẢ & MÃ NGUỒN MỞ (MIT LICENSE)
 
-> **© 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (Student-Led AI Safety Competency Framework)" được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.**
+> **© 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.**
 
 Đề án được phát hành hoàn toàn miễn phí dưới giấy phép **[MIT License](LICENSE)**:
 * ✅ Mọi trường phổ thông, tổ chức giáo dục, thầy cô giáo và học sinh đều có quyền tự do tải về, sử dụng, sao chép và điều chỉnh cho phù hợp với đơn vị mình.
