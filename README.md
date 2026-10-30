@@ -27,7 +27,7 @@ Hệ sinh thái của đề tài được cấu trúc thành hai tầng liên k�
 
 ### 🏛️ 1.1. Mô hình năng lực gốc
 * **Tên chính thức:** **MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO**
-* **Vai trò & ý nghĩa:** là **khung năng lực lý thuyết và kỹ thuật nền tảng gốc** do tác giả ThS. Phạm Bá Hồng Sơn sáng lập và công bố. Mô hình gốc xác lập hệ thống chuẩn mực toàn diện: bảo an nhận thức, chuẩn mực đạo đức UNESCO 2024, môi trường thử nghiệm bảo mật tuyệt đối không thu thập dữ liệu cá nhân (Zero-PII), và phương pháp sư phạm gợi mở Socrates.
+* **Vai trò & ý nghĩa:** là **khung năng lực lý thuyết và kỹ thuật nền tảng gốc** do tác giả Phạm Bá Hồng Sơn sáng lập và công bố từ bài báo khoa học quốc tế chuẩn Scopus Q1 (tại Hội nghị Quốc tế IEEE iSTEM-Ed 2026). Mô hình gốc xác lập hệ thống chuẩn mực toàn diện: bảo an nhận thức, chuẩn mực đạo đức UNESCO 2024, môi trường thử nghiệm bảo mật tuyệt đối không thu thập dữ liệu cá nhân (Zero-PII), và phương pháp sư phạm gợi mở Socrates.
 * **Địa vị pháp lý:** đây là tác phẩm nền tảng gốc được xác lập quyền tác giả và bảo hộ độc quyền nhãn hiệu **"BẢO AN AI"™** theo Luật Sở hữu trí tuệ Việt Nam và Công ước Berne.
 
 ### 🚀 1.2. Mô hình kế thừa thực nghiệm học đường
@@ -133,13 +133,13 @@ flowchart LR
 
 ## 📊 6. KẾT QUẢ THỰC NGHIỆM & MỤC TIÊU PHÁT TRIỂN
 
-Mô hình đã được thử nghiệm thực tế thành công ở cấp độ câu lạc bộ hạt nhân (Dự án VIN BEYOND AI) với các kết quả ấn tượng:
+Mô hình đã được thử nghiệm và triển khai thực tế ở cấp độ câu lạc bộ hạt nhân (Dự án VIN BEYOND AI) với các kết quả ấn tượng:
 * **4 Nguyên mẫu học tập an toàn đã hoàn thiện và kiểm thử thành công:**
   1. *Trợ lý luyện thi SAT:* hướng dẫn phân tích bẫy đọc hiểu, suy luận từ vựng và phương pháp loại trừ.
   2. *Gia sư Toán tư duy:* gợi mở từng bước biến đổi đại số và hình học, kiên quyết không giải hộ.
   3. *Cố vấn dự án STEAM:* định hướng ý tưởng, lập kế hoạch nghiên cứu và kiểm tra độ tin cậy của tài liệu.
   4. *Sổ tay an toàn số bỏ túi:* hướng dẫn học sinh nhận biết tin giả, tránh lộ dữ liệu cá nhân trên mạng.
-* **100% học sinh tham gia ký cam kết an toàn:** đạt chuẩn khung năng lực AI của UNESCO và quy định của Bộ Giáo dục & Đào tạo.
+* **100% thành viên ban đầu của dự án đã ký cam kết an toàn:** đạt chuẩn khung năng lực AI của UNESCO và quy định của Bộ Giáo dục & Đào tạo.
 * **Cơ sở khoa học quốc tế uy tín:** sáng kiến có bài báo khoa học chuẩn **Scopus Q1** được báo cáo tại Hội nghị Quốc tế IEEE iSTEM-Ed 2026, chứng minh hiệu quả thực tế của phản hồi AI gợi mở đối với học sinh phổ thông.
 * **Mục tiêu phổ quát tương lai:** nhân rộng mô hình từ quy mô câu lạc bộ ra toàn trường và mạng lưới các trường học, tổ chức giáo dục đối tác, hướng tới thu hút 80–100 học sinh (20 đội thi) mỗi sự kiện, đạt trên 85% mức độ hài lòng và 80% nâng cao năng lực tự chủ số của người học.
 

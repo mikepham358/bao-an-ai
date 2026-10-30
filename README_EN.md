@@ -29,7 +29,7 @@ To address this, the project is architected into two interconnected tiers:
 
 ### 🏛️ 1.1. Root Competency Framework (Theoretical & Technical Foundation)
 * **Official Title:** **AI SAFETY COMPETENCY FRAMEWORK** *(Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)*.
-* **Role & Significance:** Serves as the **master foundational competency architecture** authored by Pham Ba Hong Son (Mike Pham). It defines universal standards for cognitive protection, UNESCO 2024 ethical norms, strict student privacy protection (Zero-PII Safe Sandbox), and Socratic inquiry-based scaffolding.
+* **Role & Significance:** Serves as the **master foundational competency architecture** authored by Pham Ba Hong Son (Mike Pham) originating from a Scopus Q1-indexed international research paper (presented at the IEEE iSTEM-Ed 2026 International Conference). It defines universal standards for cognitive protection, UNESCO 2024 ethical norms, strict student privacy protection (Zero-PII Safe Sandbox), and Socratic inquiry-based scaffolding.
 * **Legal Status:** This constitutes the primary foundational intellectual creation protected under Author's Copyright and the registered proprietary trademark **"BẢO AN AI"™** under the Intellectual Property Law of Vietnam and the Berne Convention.
 
 ### 🚀 1.2. Student-Led School Implementation Model (Inherited Framework)
@@ -135,13 +135,13 @@ To eliminate data harvesting and generative hallucinations, the framework enforc
 
 ## 📊 6. EMPIRICAL RESULTS & COMMITTED TARGETS
 
-The framework has undergone rigorous classroom piloting with demonstrated pedagogical impact:
+The framework has been tested and implemented in practice within the core student pioneer club (VIN BEYOND AI) with demonstrated pedagogical impact:
 * **4 Production-Grade Safe Prototypes Tested & Verified:**
   1. *SAT Verbal & Analytical Coach:* Guides students through reading passage structure, word-in-context elimination, and logic analysis.
   2. *Socratic Math Mentor:* Scaffolds algebraic transformations step-by-step; steadfastly declines answer requests.
   3. *STEAM Inquiry & Research Advisor:* Directs hypothesis formulation, research methodologies, and citation credibility.
   4. *Pocket Digital Safety Guide:* Educates peers on detecting algorithmic bias, deepfakes, and privacy vulnerabilities.
-* **100% Student-Led Ethical Pledge Compliance:** Complete alignment with UNESCO 2024 AI competencies and national education policies.
+* **100% Initial Core Project Members Signed Ethical Pledge:** Complete alignment with UNESCO 2024 AI competencies and national education policies.
 * **International Academic Publication:** Scopus Q1-indexed empirical study presented at the **IEEE iSTEM-Ed 2026 International Conference**, providing empirical evidence on the cognitive efficacy of Socratic AI feedback in secondary education.
 * **Future Universal Scaling Targets:** Expanding the club-incubated model into campus-wide and inter-school networks, targeting 80–100 participants (20 teams) per cycle, >85% user satisfaction rate, and >80% increase in student digital agency and self-efficacy.
 
