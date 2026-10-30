@@ -31,7 +31,7 @@ Hệ sinh thái của đề tài được cấu trúc thành hai tầng liên k�
 * **Địa vị pháp lý:** đây là tác phẩm nền tảng gốc được xác lập quyền tác giả và bảo hộ độc quyền nhãn hiệu **"BẢO AN AI"™** theo Luật Sở hữu trí tuệ Việt Nam và Công ước Berne.
 
 ### 🚀 1.2. Mô hình kế thừa thực nghiệm học đường
-* **Tên triển khai:** mô hình phát triển năng lực bảo an AI do học sinh làm chủ.
+* **Tên triển khai:** **MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO DO HỌC SINH LÀM CHỦ (STUDENT-LED AI SAFETY COMPETENCY FRAMEWORK)**
 * **Quan hệ kế thừa:** mô hình này được **kế thừa, cụ thể hóa và triển khai trực tiếp từ mô hình năng lực gốc** nêu trên. Thay vì áp đặt từ trên xuống, mô hình chuyển hóa các chuẩn mực bảo an thành hành động thực tế tại học đường bằng cách trao toàn bộ quyền chủ động cho học sinh:
   * Khởi đầu thực nghiệm từ câu lạc bộ học sinh tiên phong (VIN BEYOND AI).
   * Trao quyền để nhóm học sinh nòng cốt tự đứng ra lập đề án gọi vốn tại trường, thiết kế bộ thử thách thực tế, trực tiếp đứng lớp hướng dẫn cho bạn bè theo phương pháp "Học sinh dạy học sinh" qua chuỗi 4 buổi hội thảo.
