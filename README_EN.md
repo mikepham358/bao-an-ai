@@ -15,7 +15,7 @@
 
 🌐 **Languages / Ngôn ngữ:** [Tiếng Việt (Bản chuẩn)](README.md) | **English (Global Edition)**
 
-> 🔒 **Copyright Notice:** © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" is protected under the Intellectual Property Law of Vietnam and the Berne Convention.
+> 🔒 **Copyright & Trademark Notice:** © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" and the Trademark "BẢO AN AI"™ (Tagline: "Bảo an AI, sống trọn hân hoan"™) are protected under the Intellectual Property Law of Vietnam and international conventions.
 
 ---
 
@@ -170,12 +170,15 @@ student-led-ai-safety-competency-framework/
 
 ---
 
-## 📜 8. COPYRIGHT & OPEN-SOURCE MIT LICENSE
+## 📜 8. COPYRIGHT, TRADEMARK & OPEN-SOURCE MIT LICENSE
 
 > **© 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" is protected under the Intellectual Property Law of Vietnam and the Berne Convention.**
+>
+> **™ "BẢO AN AI" and the official tagline "Bảo an AI, sống trọn hân hoan" are proprietary trademarks and intellectual property of Pham Ba Hong Son, protected under industrial property regulations.**
 
 This framework and all associated Open Educational Resources (OER) are published under the **[MIT License](LICENSE)**:
 * ✅ Free for all secondary schools, educational organizations, educators, researchers, and students to download, adapt, translate, and deploy.
+* ⚠️ **Trademark Notice:** The MIT License grants rights to the code and educational materials, but explicitly **does NOT** grant any right or license to use the trademark **"BẢO AN AI"™** or commercialize the brand identity without prior written permission from the author.
 * ✅ Zero licensing fees, dedicated to advancing equitable, safe, and human-centered AI education globally.
 
 ---

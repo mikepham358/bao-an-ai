@@ -15,7 +15,7 @@
 
 🌐 **Ngôn ngữ / Languages:** **Tiếng Việt (Bản chuẩn)** | [English (Global Edition)](README_EN.md)
 
-> 🔒 **Thông báo bản quyền:** © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
+> 🔒 **Thông báo bản quyền & Nhãn hiệu:** © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" và Nhãn hiệu "BẢO AN AI"™ (Khẩu hiệu: "Bảo an AI, sống trọn hân hoan"™) được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
 
 ---
 
@@ -168,13 +168,16 @@ student-led-ai-safety-competency-framework/
 
 ---
 
-## 📜 8. BẢN QUYỀN TÁC GIẢ & MÃ NGUỒN MỞ (MIT LICENSE)
+## 📜 8. BẢN QUYỀN TÁC GIẢ, NHÃN HIỆU & MÃ NGUỒN MỞ (MIT LICENSE)
 
 > **© 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.**
+>
+> **™ Nhãn hiệu "BẢO AN AI" cùng khẩu hiệu "Bảo an AI, sống trọn hân hoan" là tài sản trí tuệ và nhãn hiệu độc quyền của tác giả Phạm Bá Hồng Sơn, được bảo hộ quyền sở hữu công nghiệp theo Luật Sở hữu trí tuệ Việt Nam.**
 
 Đề án được phát hành hoàn toàn miễn phí dưới giấy phép **[MIT License](LICENSE)**:
 * ✅ Mọi trường phổ thông, tổ chức giáo dục, thầy cô giáo và học sinh đều có quyền tự do tải về, sử dụng, sao chép và điều chỉnh cho phù hợp với đơn vị mình.
-* ✅ Không thu bất kỳ khoản phí bản quyền nào, hướng đến mục tiêu xây dựng một cộng đồng giáo dục an toàn và nhân văn.
+* ⚠️ **Điều khoản bảo hộ nhãn hiệu (Trademark Notice):** Giấy phép mã nguồn mở MIT chỉ áp dụng cho mã nguồn và nội dung học liệu chia sẻ; **tuyệt đối không bao gồm** quyền chuyển giao việc sử dụng nhãn hiệu thương mại **"BẢO AN AI"™** hoặc khẩu hiệu độc quyền cho mục đích kinh doanh, thương mại hóa hoặc mạo danh thương hiệu khi chưa có văn bản chấp thuận chính thức từ tác giả.
+* ✅ Hoàn toàn không thu bất kỳ khoản phí bản quyền nào, hướng đến mục tiêu xây dựng một cộng đồng giáo dục an toàn và nhân văn.
 
 ---
 
