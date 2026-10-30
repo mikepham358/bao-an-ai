@@ -2,7 +2,7 @@
 ### (AI Safety Competency Framework)
 **Khung Năng Lực Hội Thảo & Ngày Hội Sáng Tạo Ứng Dụng Học Tập AI An Toàn Dành Cho Học Sinh Phổ Thông**  
 *Mô hình phát triển năng lực số và bảo an AI phổ quát, sẵn sàng nhân rộng cho các trường phổ thông và tổ chức giáo dục*  
-*Ươm mầm thực nghiệm từ Câu lạc bộ học sinh tiên phong: VIN BEYOND AI • Khẩu hiệu: "AI An Toàn, Tư Duy Vững Vàng" (Safe AI, Stronger Minds)*
+*Ươm mầm thực nghiệm từ Câu lạc bộ học sinh tiên phong: VIN BEYOND AI • Khẩu hiệu: "AI an toàn, tư duy vững vàng"*
 
 [![Bản quyền: MIT](https://img.shields.io/badge/B%E1%BA%A3n%20quy%E1%BB%81n-MIT%20License-yellow.svg)](LICENSE)
 [![Khung năng lực: UNESCO 2024](https://img.shields.io/badge/Khung%20n%C4%83ng%20l%E1%BB%B1c-UNESCO%20AI%202024-blue.svg)](https://unesco.org)
@@ -19,24 +19,24 @@
 
 ---
 
-## 📌 1. TỔNG QUAN KIẾN TRÚC MÔ HÌNH: NỀN TẢNG GỐC & KẾ THỪA THỰC NGHIỆM
+## 📌 1. TỔNG QUAN KIẾN TRÚC MÔ HÌNH: nền tảng gốc & kế thừa thực nghiệm
 
-Trước sự bùng nổ của trí tuệ nhân tạo (AI), người học rất dễ rơi vào thói quen **ỷ lại, nhờ AI làm bài hộ**, dẫn đến lười suy nghĩ và suy giảm tư duy độc lập (hiện tượng Cognitive Offloading). Các văn bản chỉ đạo của Bộ Giáo dục & Đào tạo (Thông tư 18/2026/TT-BGDĐT, Công văn 2422/BGDĐT-CNTT) và khung năng lực AI của UNESCO đều nhấn mạnh: **nhà trường phải xây dựng văn hóa liêm chính và hướng dẫn người học làm chủ công nghệ một cách an toàn**.
+Trước sự bùng nổ của trí tuệ nhân tạo (AI), người học rất dễ rơi vào thói quen **ỷ lại, nhờ AI làm bài hộ**, dẫn đến lười suy nghĩ và suy giảm tư duy độc lập (hiện tượng khoán tư duy). Các văn bản chỉ đạo của Bộ Giáo dục & Đào tạo (Thông tư 18/2026/TT-BGDĐT, Công văn 2422/BGDĐT-CNTT) và khung năng lực AI của UNESCO đều nhấn mạnh: **nhà trường phải xây dựng văn hóa liêm chính và hướng dẫn người học làm chủ công nghệ một cách an toàn**.
 
 Hệ sinh thái của đề tài được cấu trúc thành hai tầng liên kết chặt chẽ:
 
-### 🏛️ 1.1. Mô hình Năng lực Gốc (Root Competency Framework)
-* **Tên chính thức:** **MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO** *(AI Safety Competency Framework)*.
-* **Vai trò & Ý nghĩa:** Là **khung năng lực lý thuyết và kỹ thuật nền tảng gốc** do tác giả ThS. Phạm Bá Hồng Sơn sáng lập và công bố. Mô hình gốc xác lập hệ thống chuẩn mực toàn diện: bảo an nhận thức, chuẩn mực đạo đức UNESCO 2024, môi trường thử nghiệm bảo mật tuyệt đối không thu thập dữ liệu cá nhân (Zero-PII Safe Sandbox), và phương pháp sư phạm gợi mở Socrates.
-* **Địa vị pháp lý:** Đây là tác phẩm nền tảng gốc được xác lập quyền tác giả và bảo hộ độc quyền nhãn hiệu **"BẢO AN AI"™** theo Luật Sở hữu trí tuệ Việt Nam và Công ước Berne.
+### 🏛️ 1.1. Mô hình năng lực gốc
+* **Tên chính thức:** **MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO**
+* **Vai trò & ý nghĩa:** là **khung năng lực lý thuyết và kỹ thuật nền tảng gốc** do tác giả ThS. Phạm Bá Hồng Sơn sáng lập và công bố. Mô hình gốc xác lập hệ thống chuẩn mực toàn diện: bảo an nhận thức, chuẩn mực đạo đức UNESCO 2024, môi trường thử nghiệm bảo mật tuyệt đối không thu thập dữ liệu cá nhân (Zero-PII), và phương pháp sư phạm gợi mở Socrates.
+* **Địa vị pháp lý:** đây là tác phẩm nền tảng gốc được xác lập quyền tác giả và bảo hộ độc quyền nhãn hiệu **"BẢO AN AI"™** theo Luật Sở hữu trí tuệ Việt Nam và Công ước Berne.
 
-### 🚀 1.2. Mô hình Kế thừa Thực nghiệm Học đường (Student-Led Derivative Model)
-* **Tên triển khai:** **Mô hình phát triển năng lực bảo an AI do học sinh làm chủ** *(Student-Led AI Safety Competency Framework)*.
-* **Quan hệ kế thừa:** Mô hình này được **kế thừa, cụ thể hóa và triển khai trực tiếp từ Mô hình Năng lực Gốc** nêu trên. Thay vì áp đặt từ trên xuống, mô hình chuyển hóa các chuẩn mực bảo an thành hành động thực tế tại học đường bằng cách trao toàn bộ quyền chủ động (Learner Agency) cho học sinh:
+### 🚀 1.2. Mô hình kế thừa thực nghiệm học đường
+* **Tên triển khai:** mô hình phát triển năng lực bảo an AI do học sinh làm chủ.
+* **Quan hệ kế thừa:** mô hình này được **kế thừa, cụ thể hóa và triển khai trực tiếp từ mô hình năng lực gốc** nêu trên. Thay vì áp đặt từ trên xuống, mô hình chuyển hóa các chuẩn mực bảo an thành hành động thực tế tại học đường bằng cách trao toàn bộ quyền chủ động cho học sinh:
   * Khởi đầu thực nghiệm từ câu lạc bộ học sinh tiên phong (VIN BEYOND AI).
-  * Trao quyền để nhóm học sinh nòng cốt tự đứng ra lập đề án gọi vốn tại trường (Micro-grants), thiết kế bộ thử thách thực tế, trực tiếp đứng lớp hướng dẫn cho bạn bè theo phương pháp "Học sinh dạy học sinh" (Peer-to-Peer qua chuỗi 4 buổi hội thảo).
-  * Trực tiếp điều hành Ngày hội sáng chế ứng dụng học tập AI an toàn (Safe AI Appathon) tạo ra các trợ lý AI liêm chính phục vụ nhu cầu học tập của chính mình.
-* **Tính mở & Chuyển giao:** Mô hình triển khai được chuẩn hóa theo cấu trúc mở (Open Educational Resources), có khả năng tùy biến linh hoạt để mọi trường phổ thông, trung tâm giáo dục hay câu lạc bộ STEM đều có thể dễ dàng nhân rộng phù hợp với điều kiện thực tế của đơn vị mình.
+  * Trao quyền để nhóm học sinh nòng cốt tự đứng ra lập đề án gọi vốn tại trường, thiết kế bộ thử thách thực tế, trực tiếp đứng lớp hướng dẫn cho bạn bè theo phương pháp "Học sinh dạy học sinh" qua chuỗi 4 buổi hội thảo.
+  * Trực tiếp điều hành ngày hội sáng chế ứng dụng học tập AI an toàn tạo ra các trợ lý AI liêm chính phục vụ nhu cầu học tập của chính mình.
+* **Tính mở & chuyển giao:** mô hình triển khai được chuẩn hóa theo cấu trúc mở, có khả năng tùy biến linh hoạt để mọi trường phổ thông, trung tâm giáo dục hay câu lạc bộ STEM đều có thể dễ dàng nhân rộng phù hợp với điều kiện thực tế của đơn vị mình.
 
 ![Sơ đồ tổng quan mô hình](assets/framework_diagram.png)
 
@@ -45,7 +45,7 @@ Hệ sinh thái của đề tài được cấu trúc thành hai tầng liên k�
        ⬇ (Đổi mới tư duy: dũng cảm học từ thử sai)
 [Nhóm học sinh nòng cốt tự lập đề án & gọi vốn 15-20 triệu đồng]
        ⬇ (Học sinh dạy học sinh: 4 buổi hội thảo thực chiến)
-[Ngày hội sáng chế AI Hackathon: 20 đội tự tạo trợ lý học tập an toàn]
+[Ngày hội sáng chế AI: 20 đội tự tạo trợ lý học tập an toàn]
        ⬇ (AI chỉ gợi mở từng bước, trích dẫn nguồn, không giải hộ)
 [Học sinh tự tin làm chủ công nghệ & Chuyển giao mở rộng liên trường]
 ```
@@ -101,7 +101,7 @@ flowchart LR
 * **Buổi 3, săn lỗi ảo giác & lập trình bằng lời nói:** tập kỹ năng phát hiện câu trả lời sai của AI; hướng dẫn cách tạo ứng dụng tương tác bằng ngôn ngữ tự nhiên (Vibe Coding) trên Gemini Canvas mà không cần học viết mã phức tạp.
 * **Buổi 4, chế tác sản phẩm cho ngày hội:** hướng dẫn 20 đội thi phân chia 4 vai trò (kỹ sư câu lệnh, biên tập nội dung, thiết kế giao diện, thuyết trình) và hoàn thiện bản thử nghiệm.
 
-### 🔹 Chặng 2B: ngày hội sáng tạo ứng dụng học tập AI an toàn (AI Hackathon) (Tháng 12)
+### 🔹 Chặng 2B: ngày hội sáng tạo ứng dụng học tập AI an toàn (Tháng 12)
 * **Quy mô:** 80–100 học sinh (20 đội thi), cùng sự tham gia của giáo viên và cha mẹ học sinh.
 * **Vận hành chuyên nghiệp:** 33 học sinh trong Ban tổ chức tự điều phối các phòng thi, có sẵn 6 phương án xử lý sự cố kỹ thuật (mã hiệu BP-01 đến BP-06).
 * **Kết quả:** 20 trợ lý học tập an toàn ra đời (Gia sư SAT, Trợ lý Toán tư duy, Cố vấn dự án STEM, Sổ tay văn học...).
@@ -187,7 +187,7 @@ bao-an-ai/
 
 Đề án được phát hành hoàn toàn miễn phí dưới giấy phép **[MIT License](LICENSE)**:
 * ✅ Mọi trường phổ thông, tổ chức giáo dục, thầy cô giáo và học sinh đều có quyền tự do tải về, sử dụng, sao chép và điều chỉnh cho phù hợp với đơn vị mình.
-* ⚠️ **Điều khoản bảo hộ nhãn hiệu (Trademark Notice):** Giấy phép mã nguồn mở MIT chỉ áp dụng cho mã nguồn và nội dung học liệu chia sẻ; **tuyệt đối không bao gồm** quyền chuyển giao việc sử dụng nhãn hiệu thương mại **"BẢO AN AI"™** hoặc khẩu hiệu độc quyền cho mục đích kinh doanh, thương mại hóa hoặc mạo danh thương hiệu khi chưa có văn bản chấp thuận chính thức từ tác giả.
+* ⚠️ **Điều khoản bảo hộ nhãn hiệu:** giấy phép mã nguồn mở MIT chỉ áp dụng cho mã nguồn và nội dung học liệu chia sẻ; **tuyệt đối không bao gồm** quyền chuyển giao việc sử dụng nhãn hiệu thương mại **"BẢO AN AI"™** hoặc khẩu hiệu độc quyền cho mục đích kinh doanh, thương mại hóa hoặc mạo danh thương hiệu khi chưa có văn bản chấp thuận chính thức từ tác giả.
 * ✅ Hoàn toàn không thu bất kỳ khoản phí bản quyền nào, hướng đến mục tiêu xây dựng một cộng đồng giáo dục an toàn và nhân văn.
 
 ---
@@ -199,7 +199,7 @@ bao-an-ai/
   * Chuyên gia giáo dục chính thức của Google: [edudirectory.withgoogle.com/profiles/5087615831769088](https://edudirectory.withgoogle.com/profiles/5087615831769088) (*Google for Education Certified Innovator - #MEL26, Melbourne Australia*)
   * Học viên Cao học Viện Sư phạm Kỹ thuật TP. Hồ Chí Minh
   * Tác giả bài báo khoa học quốc tế chuẩn **Scopus Q1** (Hội nghị Quốc tế IEEE iSTEM-Ed 2026)
-* **Lĩnh vực hoạt động:** Giáo viên bộ môn SAT, Cố vấn Chuyên môn Đổi mới Sáng tạo & Công nghệ Giáo dục, TP. Hồ Chí Minh.
+* **Lĩnh vực hoạt động:** giáo viên bộ môn SAT, cố vấn chuyên môn đổi mới sáng tạo & công nghệ giáo dục, TP. Hồ Chí Minh.
 * **Email liên hệ:** mikepham358@gmail.com
 * **Kho mã nguồn GitHub:** [github.com/mikepham358/bao-an-ai](https://github.com/mikepham358/bao-an-ai)
 
