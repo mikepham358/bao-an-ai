@@ -150,7 +150,7 @@ Mô hình đã được thử nghiệm thực tế thành công ở cấp độ 
 Toàn bộ tài liệu chính thức đều có sẵn trong thư mục của kho lưu trữ để các trường tải về sử dụng:
 
 ```text
-ai-safety-competency-framework/
+bao-an-ai/
 ├── README.md                                  # Tài liệu hướng dẫn tổng quan toàn bộ mô hình (Bản chuẩn Tiếng Việt)
 ├── README_EN.md                               # Global Framework Overview & Specifications (English Edition)
 ├── LICENSE                                    # Bản quyền mã nguồn mở MIT (dùng miễn phí)
@@ -201,7 +201,7 @@ ai-safety-competency-framework/
   * Tác giả bài báo khoa học quốc tế chuẩn **Scopus Q1** (Hội nghị Quốc tế IEEE iSTEM-Ed 2026)
 * **Lĩnh vực hoạt động:** Giáo viên bộ môn SAT, Cố vấn Chuyên môn Đổi mới Sáng tạo & Công nghệ Giáo dục, TP. Hồ Chí Minh.
 * **Email liên hệ:** mikepham358@gmail.com
-* **Kho mã nguồn GitHub:** [github.com/mikepham358/ai-safety-competency-framework](https://github.com/mikepham358/ai-safety-competency-framework)
+* **Kho mã nguồn GitHub:** [github.com/mikepham358/bao-an-ai](https://github.com/mikepham358/bao-an-ai)
 
 ---
 

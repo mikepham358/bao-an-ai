@@ -152,7 +152,7 @@ The framework has undergone rigorous classroom piloting with demonstrated pedago
 All resources are openly accessible for schools and educators worldwide:
 
 ```text
-ai-safety-competency-framework/
+bao-an-ai/
 ├── README.md                                  # Complete Framework Overview (Vietnamese Edition)
 ├── README_EN.md                               # Global Framework Overview & Specifications (English Edition)
 ├── LICENSE                                    # Open-Source MIT License (100% Free Adoption)
@@ -203,7 +203,7 @@ This framework and all associated Open Educational Resources (OER) are published
   * Author of Scopus Q1-indexed research paper presented at the **IEEE iSTEM-Ed 2026** International Conference
 * **Professional Domain:** SAT Educator, EdTech Innovation & Educational Researcher, Ho Chi Minh City, Vietnam.
 * **Email:** mikepham358@gmail.com
-* **GitHub Repository:** [github.com/mikepham358/ai-safety-competency-framework](https://github.com/mikepham358/ai-safety-competency-framework)
+* **GitHub Repository:** [github.com/mikepham358/bao-an-ai](https://github.com/mikepham358/bao-an-ai)
 
 ---
 
