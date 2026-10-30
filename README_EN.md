@@ -1,4 +1,4 @@
-# STUDENT-LED AI SAFETY COMPETENCY FRAMEWORK
+# AI SAFETY COMPETENCY FRAMEWORK
 ### Open Educational Resources (OER) for K-12 AI Capacity Building & Safe Learning Appathons
 **A Universal Framework for Secondary Schools, Learning Communities & Educational Organizations**  
 *Incubated by the VIN BEYOND AI Student Pioneer Club — Motto: "Safe AI, Stronger Minds"*
@@ -15,7 +15,7 @@
 
 🌐 **Languages / Ngôn ngữ:** [Tiếng Việt (Bản chuẩn)](README.md) | **English (Global Edition)**
 
-> 🔒 **Copyright & Trademark Notice:** © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" and the Trademark "BẢO AN AI"™ (Tagline: "Bảo an AI, sống trọn hân hoan"™) are protected under the Intellectual Property Law of Vietnam and international conventions.
+> 🔒 **Copyright & Trademark Notice:** © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" and the Trademark "BẢO AN AI"™ are protected under the Intellectual Property Law of Vietnam and international conventions.
 
 ---
 
@@ -141,7 +141,7 @@ The framework has undergone rigorous classroom piloting with demonstrated pedago
 All resources are openly accessible for schools and educators worldwide:
 
 ```text
-student-led-ai-safety-competency-framework/
+ai-safety-competency-framework/
 ├── README.md                                  # Complete Framework Overview (Vietnamese Edition)
 ├── README_EN.md                               # Global Framework Overview & Specifications (English Edition)
 ├── LICENSE                                    # Open-Source MIT License (100% Free Adoption)
@@ -174,7 +174,7 @@ student-led-ai-safety-competency-framework/
 
 > **© 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" is protected under the Intellectual Property Law of Vietnam and the Berne Convention.**
 >
-> **™ "BẢO AN AI" and the official tagline "Bảo an AI, sống trọn hân hoan" are proprietary trademarks and intellectual property of Pham Ba Hong Son, protected under industrial property regulations.**
+> **™ "BẢO AN AI" and the official tagline "Bảo an AI, sáng tạo hân hoan" are proprietary trademarks and intellectual property of Pham Ba Hong Son, protected under industrial property regulations.**
 
 This framework and all associated Open Educational Resources (OER) are published under the **[MIT License](LICENSE)**:
 * ✅ Free for all secondary schools, educational organizations, educators, researchers, and students to download, adapt, translate, and deploy.
@@ -192,8 +192,8 @@ This framework and all associated Open Educational Resources (OER) are published
   * Author of Scopus Q1-indexed research paper presented at the **IEEE iSTEM-Ed 2026** International Conference
 * **Professional Domain:** SAT Educator, EdTech Innovation & Educational Researcher, Ho Chi Minh City, Vietnam.
 * **Email:** mikepham358@gmail.com
-* **GitHub Repository:** [github.com/mikepham358/student-led-ai-safety-competency-framework](https://github.com/mikepham358/student-led-ai-safety-competency-framework)
+* **GitHub Repository:** [github.com/mikepham358/ai-safety-competency-framework](https://github.com/mikepham358/ai-safety-competency-framework)
 
 ---
 
-> *"Bảo An AI, Sống Trọn Hân Hoan"*
+> *"Bảo An AI, Sáng Tạo Hân Hoan"*

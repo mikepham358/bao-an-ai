@@ -1,5 +1,5 @@
-# MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO DO HỌC SINH LÀM CHỦ
-### (Student-Led AI Safety Competency Framework)
+# MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO
+### (AI Safety Competency Framework)
 **Khung Năng Lực Hội Thảo & Ngày Hội Sáng Tạo Ứng Dụng Học Tập AI An Toàn Dành Cho Học Sinh Phổ Thông**  
 *Mô hình phát triển năng lực số và bảo an AI phổ quát, sẵn sàng nhân rộng cho các trường phổ thông và tổ chức giáo dục*  
 *Ươm mầm thực nghiệm từ Câu lạc bộ học sinh tiên phong: VIN BEYOND AI • Khẩu hiệu: "AI An Toàn, Tư Duy Vững Vàng" (Safe AI, Stronger Minds)*
@@ -15,7 +15,7 @@
 
 🌐 **Ngôn ngữ / Languages:** **Tiếng Việt (Bản chuẩn)** | [English (Global Edition)](README_EN.md)
 
-> 🔒 **Thông báo bản quyền & Nhãn hiệu:** © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" và Nhãn hiệu "BẢO AN AI"™ (Khẩu hiệu: "Bảo an AI, sống trọn hân hoan"™) được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
+> 🔒 **Thông báo bản quyền & Nhãn hiệu:** © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" và Nhãn hiệu "BẢO AN AI"™ được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
 
 ---
 
@@ -139,7 +139,7 @@ Mô hình đã được thử nghiệm thực tế thành công ở cấp độ 
 Toàn bộ tài liệu chính thức đều có sẵn trong thư mục của kho lưu trữ để các trường tải về sử dụng:
 
 ```text
-student-led-ai-safety-competency-framework/
+ai-safety-competency-framework/
 ├── README.md                                  # Tài liệu hướng dẫn tổng quan toàn bộ mô hình (Bản chuẩn Tiếng Việt)
 ├── README_EN.md                               # Global Framework Overview & Specifications (English Edition)
 ├── LICENSE                                    # Bản quyền mã nguồn mở MIT (dùng miễn phí)
@@ -172,7 +172,7 @@ student-led-ai-safety-competency-framework/
 
 > **© 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.**
 >
-> **™ Nhãn hiệu "BẢO AN AI" cùng khẩu hiệu "Bảo an AI, sống trọn hân hoan" là tài sản trí tuệ và nhãn hiệu độc quyền của tác giả Phạm Bá Hồng Sơn, được bảo hộ quyền sở hữu công nghiệp theo Luật Sở hữu trí tuệ Việt Nam.**
+> **™ Nhãn hiệu "BẢO AN AI" cùng khẩu hiệu "Bảo an AI, sáng tạo hân hoan" là tài sản trí tuệ và nhãn hiệu độc quyền của tác giả Phạm Bá Hồng Sơn, được bảo hộ quyền sở hữu công nghiệp theo Luật Sở hữu trí tuệ Việt Nam.**
 
 Đề án được phát hành hoàn toàn miễn phí dưới giấy phép **[MIT License](LICENSE)**:
 * ✅ Mọi trường phổ thông, tổ chức giáo dục, thầy cô giáo và học sinh đều có quyền tự do tải về, sử dụng, sao chép và điều chỉnh cho phù hợp với đơn vị mình.
@@ -190,8 +190,8 @@ student-led-ai-safety-competency-framework/
   * Tác giả bài báo khoa học quốc tế chuẩn **Scopus Q1** (Hội nghị Quốc tế IEEE iSTEM-Ed 2026)
 * **Lĩnh vực hoạt động:** Giáo viên bộ môn SAT, Cố vấn Chuyên môn Đổi mới Sáng tạo & Công nghệ Giáo dục, TP. Hồ Chí Minh.
 * **Email liên hệ:** mikepham358@gmail.com
-* **Kho mã nguồn GitHub:** [github.com/mikepham358/student-led-ai-safety-competency-framework](https://github.com/mikepham358/student-led-ai-safety-competency-framework)
+* **Kho mã nguồn GitHub:** [github.com/mikepham358/ai-safety-competency-framework](https://github.com/mikepham358/ai-safety-competency-framework)
 
 ---
 
-> *"Bảo An AI, Sống Trọn Hân Hoan"*
+> *"Bảo An AI, Sáng Tạo Hân Hoan"*
