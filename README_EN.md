@@ -19,15 +19,26 @@
 
 ---
 
-## 📌 1. EXECUTIVE OVERVIEW & PROBLEM STATEMENT
+## 📌 1. ARCHITECTURAL OVERVIEW: ROOT FRAMEWORK & STUDENT-LED IMPLEMENTATION
 
 In the era of Generative AI, K-12 students face a pervasive cognitive risk: **passive AI reliance and cognitive offloading**, where learners use conversational AI as an automated homework-completing engine rather than an intellectual sparring partner. This bypasses genuine critical thinking, diminishes metacognition, and threatens academic integrity.
 
 Both the **UNESCO AI Competency Framework for Students (2024)** and the **Ministry of Education and Training of Vietnam (Circular 18/2026/TT-BGDĐT & Official Dispatch 2422/BGDĐT-CNTT)** mandate that schools establish rigorous ethical norms and empower learners to safely govern emerging technologies.
 
-Rather than imposing restrictive top-down bans, this initiative introduces a disruptive, student-centered paradigm: **total empowerment through student agency**. Incubated initially within a pioneering student tech club (VIN BEYOND AI), the model empowers core student leaders to formulate formal micro-grant proposals, design authentic academic challenges, lead peer-to-peer workshops, and orchestrate school-wide **Safe AI Appathons (Hackathons)**.
+To address this, the project is architected into two interconnected tiers:
 
-The framework is modular, openly accessible, and universally adaptable for any secondary school, educational institution, or learning community worldwide.
+### 🏛️ 1.1. Root Competency Framework (Theoretical & Technical Foundation)
+* **Official Title:** **AI SAFETY COMPETENCY FRAMEWORK** *(Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)*.
+* **Role & Significance:** Serves as the **master foundational competency architecture** authored by Pham Ba Hong Son (Mike Pham). It defines universal standards for cognitive protection, UNESCO 2024 ethical norms, strict student privacy protection (Zero-PII Safe Sandbox), and Socratic inquiry-based scaffolding.
+* **Legal Status:** This constitutes the primary foundational intellectual creation protected under Author's Copyright and the registered proprietary trademark **"BẢO AN AI"™** under the Intellectual Property Law of Vietnam and the Berne Convention.
+
+### 🚀 1.2. Student-Led School Implementation Model (Inherited Framework)
+* **Implementation Title:** **Student-Led AI Safety Competency Framework** *(Mô hình phát triển năng lực bảo an AI do học sinh làm chủ)*.
+* **Inheritance & Operationalization:** This model is **directly inherited and operationalized from the Root Competency Framework**. Rather than imposing top-down restrictions, it translates abstract ethical principles into authentic student action through full learner agency:
+  * Incubated and piloted within the pioneering student tech club (VIN BEYOND AI).
+  * Empowers core student leaders to author formal micro-grant proposals, design real-world problem sets, and lead 4-session peer-to-peer training workshops for fellow students.
+  * Autonomously orchestrates school-wide Safe AI Appathons (Hackathons), creating verified Socratic learning assistants customized to real student needs.
+* **Open Educational Transfer:** Structured as modular Open Educational Resources (OER), universally adaptable for any secondary school or educational community globally.
 
 ![High-Level Framework Diagram](assets/framework_diagram.png)
 

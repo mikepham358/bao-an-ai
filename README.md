@@ -19,13 +19,24 @@
 
 ---
 
-## 📌 1. TỔNG QUAN VỀ MÔ HÌNH
+## 📌 1. TỔNG QUAN KIẾN TRÚC MÔ HÌNH: NỀN TẢNG GỐC & KẾ THỪA THỰC NGHIỆM
 
-Trước sự bùng nổ của trí tuệ nhân tạo (AI), học sinh rất dễ rơi vào thói quen **ỷ lại, nhờ AI làm bài hộ**, dẫn đến lười suy nghĩ và suy giảm tư duy độc lập. Các văn bản chỉ đạo của Bộ Giáo dục & Đào tạo (Thông tư 18/2026/TT-BGDĐT, Công văn 2422/BGDĐT-CNTT) và khung năng lực AI của UNESCO đều nhấn mạnh: **nhà trường phải xây dựng văn hóa liêm chính và hướng dẫn học sinh làm chủ công nghệ một cách an toàn**.
+Trước sự bùng nổ của trí tuệ nhân tạo (AI), người học rất dễ rơi vào thói quen **ỷ lại, nhờ AI làm bài hộ**, dẫn đến lười suy nghĩ và suy giảm tư duy độc lập (hiện tượng Cognitive Offloading). Các văn bản chỉ đạo của Bộ Giáo dục & Đào tạo (Thông tư 18/2026/TT-BGDĐT, Công văn 2422/BGDĐT-CNTT) và khung năng lực AI của UNESCO đều nhấn mạnh: **nhà trường phải xây dựng văn hóa liêm chính và hướng dẫn người học làm chủ công nghệ một cách an toàn**.
 
-Thay vì cấm đoán hoặc áp đặt quy định từ trên xuống, sáng kiến này lựa chọn một cách tiếp cận đột phá: **trao toàn bộ quyền chủ động cho học sinh**. Khởi đầu từ hạt nhân là câu lạc bộ học sinh tiên phong (VIN BEYOND AI), mô hình trao quyền để nhóm học sinh nòng cốt tự đứng ra lập đề án gọi vốn tại trường, thiết kế bộ thử thách thực tế, trực tiếp đứng lớp hướng dẫn cho các bạn học sinh và điều hành ngày hội sáng tạo ứng dụng học tập AI an toàn.
+Hệ sinh thái của đề tài được cấu trúc thành hai tầng liên kết chặt chẽ:
 
-Mô hình được chuẩn hóa theo cấu trúc mở, có khả năng tùy biến linh hoạt để mọi trường phổ thông, trung tâm giáo dục hay câu lạc bộ STEM đều có thể dễ dàng áp dụng phù hợp với điều kiện thực tế của đơn vị mình.
+### 🏛️ 1.1. Mô hình Năng lực Gốc (Root Competency Framework)
+* **Tên chính thức:** **MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO** *(AI Safety Competency Framework)*.
+* **Vai trò & Ý nghĩa:** Là **khung năng lực lý thuyết và kỹ thuật nền tảng gốc** do tác giả ThS. Phạm Bá Hồng Sơn sáng lập và công bố. Mô hình gốc xác lập hệ thống chuẩn mực toàn diện: bảo an nhận thức, chuẩn mực đạo đức UNESCO 2024, môi trường thử nghiệm bảo mật tuyệt đối không thu thập dữ liệu cá nhân (Zero-PII Safe Sandbox), và phương pháp sư phạm gợi mở Socrates.
+* **Địa vị pháp lý:** Đây là tác phẩm nền tảng gốc được xác lập quyền tác giả và bảo hộ độc quyền nhãn hiệu **"BẢO AN AI"™** theo Luật Sở hữu trí tuệ Việt Nam và Công ước Berne.
+
+### 🚀 1.2. Mô hình Kế thừa Thực nghiệm Học đường (Student-Led Derivative Model)
+* **Tên triển khai:** **Mô hình phát triển năng lực bảo an AI do học sinh làm chủ** *(Student-Led AI Safety Competency Framework)*.
+* **Quan hệ kế thừa:** Mô hình này được **kế thừa, cụ thể hóa và triển khai trực tiếp từ Mô hình Năng lực Gốc** nêu trên. Thay vì áp đặt từ trên xuống, mô hình chuyển hóa các chuẩn mực bảo an thành hành động thực tế tại học đường bằng cách trao toàn bộ quyền chủ động (Learner Agency) cho học sinh:
+  * Khởi đầu thực nghiệm từ câu lạc bộ học sinh tiên phong (VIN BEYOND AI).
+  * Trao quyền để nhóm học sinh nòng cốt tự đứng ra lập đề án gọi vốn tại trường (Micro-grants), thiết kế bộ thử thách thực tế, trực tiếp đứng lớp hướng dẫn cho bạn bè theo phương pháp "Học sinh dạy học sinh" (Peer-to-Peer qua chuỗi 4 buổi hội thảo).
+  * Trực tiếp điều hành Ngày hội sáng chế ứng dụng học tập AI an toàn (Safe AI Appathon) tạo ra các trợ lý AI liêm chính phục vụ nhu cầu học tập của chính mình.
+* **Tính mở & Chuyển giao:** Mô hình triển khai được chuẩn hóa theo cấu trúc mở (Open Educational Resources), có khả năng tùy biến linh hoạt để mọi trường phổ thông, trung tâm giáo dục hay câu lạc bộ STEM đều có thể dễ dàng nhân rộng phù hợp với điều kiện thực tế của đơn vị mình.
 
 ![Sơ đồ tổng quan mô hình](assets/framework_diagram.png)
 
