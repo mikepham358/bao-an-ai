@@ -194,4 +194,4 @@ student-led-ai-safety-competency-framework/
 
 ---
 
-> *"Công nghệ sinh ra không phải để suy nghĩ thay con người, mà để nâng tầm tư duy con người."*
+> *"Bảo An AI, Sống Trọn Hân Hoan"*

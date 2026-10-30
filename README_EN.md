@@ -196,4 +196,4 @@ This framework and all associated Open Educational Resources (OER) are published
 
 ---
 
-> *"Technology should not replace thinking; it must elevate human cognition."*
+> *"Bảo An AI, Sống Trọn Hân Hoan"*
