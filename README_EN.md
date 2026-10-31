@@ -145,6 +145,8 @@ The framework has been tested and implemented in practice within the core studen
 * **International Academic Publication:** Scopus Q1-indexed empirical study presented at the **IEEE iSTEM-Ed 2026 International Conference**, providing empirical evidence on the cognitive efficacy of Socratic AI feedback in secondary education.
 * **Future Universal Scaling Targets:** Expanding the club-incubated model into campus-wide and inter-school networks, targeting 80–100 participants (20 teams) per cycle, >85% user satisfaction rate, and >80% increase in student digital agency and self-efficacy.
 
+![Academic Poster Presentation](assets/Poster.png)
+
 ---
 
 ## 📂 7. REPOSITORY RECOURSE DIRECTORY (OPEN EDUCATIONAL RESOURCES)
@@ -158,6 +160,7 @@ bao-an-ai/
 ├── LICENSE                                    # Open-Source MIT License (100% Free Adoption)
 ├── assets/                                    # High-Resolution Schematics & Diagrams
 │   ├── He_Thong_Hoa_Mo_Hinh.png              # Complete High-Res System Flowchart (2048x2048)
+│   ├── Poster.png                            # High-Resolution Academic Poster Presentation
 │   ├── framework_diagram.jpg                 # 4-Stage Implementation Overview
 │   ├── framework_diagram.png                 # Process Flow Infographic
 │   └── framework_architecture.png            # Safe Technology Architecture

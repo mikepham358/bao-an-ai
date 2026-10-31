@@ -143,6 +143,8 @@ Mô hình đã được thử nghiệm và triển khai thực tế ở cấp đ
 * **Cơ sở khoa học quốc tế uy tín:** sáng kiến có bài báo khoa học chuẩn **Scopus Q1** được báo cáo tại Hội nghị Quốc tế IEEE iSTEM-Ed 2026, chứng minh hiệu quả thực tế của phản hồi AI gợi mở đối với học sinh phổ thông.
 * **Mục tiêu phổ quát tương lai:** nhân rộng mô hình từ quy mô câu lạc bộ ra toàn trường và mạng lưới các trường học, tổ chức giáo dục đối tác, hướng tới thu hút 80–100 học sinh (20 đội thi) mỗi sự kiện, đạt trên 85% mức độ hài lòng và 80% nâng cao năng lực tự chủ số của người học.
 
+![Poster giới thiệu sáng kiến](assets/Poster.png)
+
 ---
 
 ## 📂 7. DANH MỤC HỒ SƠ & TÀI NGUYÊN TRONG BỘ MÃ NGUỒN
@@ -156,6 +158,7 @@ bao-an-ai/
 ├── LICENSE                                    # Bản quyền mã nguồn mở MIT (dùng miễn phí)
 ├── assets/                                    # Hình ảnh và sơ đồ trực quan
 │   ├── He_Thong_Hoa_Mo_Hinh.png              # Sơ đồ hệ thống hóa mô hình độ phân giải cao
+│   ├── Poster.png                            # Poster tóm tắt sáng kiến độ phân giải cao
 │   ├── framework_diagram.jpg                 # Sơ đồ tổng thể 4 chặng hành trình
 │   ├── framework_diagram.png                 # Sơ đồ quy trình tổng quan
 │   └── framework_architecture.png            # Kiến trúc công nghệ an toàn
