@@ -20,8 +20,26 @@
 
 > 🔒 **Copyright & Trademark Notice:** © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" and the Trademark "BẢO AN AI"™ are protected under the Intellectual Property Law of Vietnam and international conventions.
 
+<a id="table-of-contents"></a>
+### 🧭 FRAMEWORK NAVIGATION & DIRECTORY STRUCTURE
+
+> ⚡ **Quick Navigation:** [📌 Section 1](#section-1) • [💡 Section 2](#section-2) • [🏗️ Section 3](#section-3) • [🚀 Section 4](#section-4) • [🛠️ Section 5](#section-5) • [📊 Section 6](#section-6) • [📂 Section 7](#section-7) • [📜 Section 8](#section-8) • [👨‍🏫 Section 9](#section-9)
+
+| Section | Topic & Icon | Key Focus Area | Direct Navigation |
+| :---: | :--- | :--- | :---: |
+| **01** | [📌 **1. Architectural Overview**](#section-1) | Root framework & student-led school implementation | [👉 View Section 1](#section-1) |
+| **02** | [💡 **2. Cognitive Innovation**](#section-2) | Embracing productive struggle & learning sciences | [👉 View Section 2](#section-2) |
+| **03** | [🏗️ **3. System Architecture**](#section-3) | 8 Core student-led action milestones | [👉 View Section 3](#section-3) |
+| **04** | [🚀 **4. 4-Stage Roadmap**](#section-4) | Pitching, workshops, safe hackathon, transfer | [👉 View Section 4](#section-4) |
+| **05** | [🛠️ **5. Safe Sandbox & Prompts**](#section-5) | Zero-PII privacy sandbox & Socratic PARTS formulas | [👉 View Section 5](#section-5) |
+| **06** | [📊 **6. Empirical Results & Targets**](#section-6) | 4 Production prototypes, Scopus Q1, scaling goals | [👉 View Section 6](#section-6) |
+| **07** | [📂 **7. Repository Resource Directory**](#section-7) | Complete OER file tree, decks, guidebooks & docs | [👉 View Section 7](#section-7) |
+| **08** | [📜 **8. Copyright & MIT License**](#section-8) | Open-source MIT terms, trademark & IP protections | [👉 View Section 8](#section-8) |
+| **09** | [👨‍🏫 **9. Author & Academic Mentor**](#section-9) | Google Innovator profile, credentials & contact | [👉 View Section 9](#section-9) |
+
 ---
 
+<a id="section-1"></a>
 ## 📌 1. ARCHITECTURAL OVERVIEW: ROOT FRAMEWORK & STUDENT-LED IMPLEMENTATION
 
 In the era of Generative AI, K-12 students face a pervasive cognitive risk: **passive AI reliance and cognitive offloading**, where learners use conversational AI as an automated homework-completing engine rather than an intellectual sparring partner. This bypasses genuine critical thinking, diminishes metacognition, and threatens academic integrity.
@@ -55,8 +73,11 @@ To address this, the project is architected into two interconnected tiers:
 [Empowered Students & Scalable Inter-School OER Transfer]
 ```
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
 
+<a id="section-2"></a>
 ## 💡 2. COGNITIVE INNOVATION: "EMBRACING PRODUCTIVE STRUGGLE"
 
 The foundational ethos of this framework originates directly from a 12th-grade student leader:  
@@ -65,8 +86,11 @@ The foundational ethos of this framework originates directly from a 12th-grade s
 * **Cognitive Science & "Productive Struggle":** Based on Susanne Narciss's multi-tiered formative feedback model, human memory and deep understanding develop only when the brain actively grapples with cognitive friction. Instant answers eliminate productive struggle and erode genuine learning.
 * **Socratic Guardrails:** In every AI application developed within this framework, system prompts strictly forbid direct answers. The AI acts as a patient Socratic mentor, providing scaffolded hints, probing counter-questions, and contextual clues while firmly declining requests to complete the task on behalf of the student.
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
 
+<a id="section-3"></a>
 ## 🏗️ 3. SYSTEM ARCHITECTURE & 8 CORE ACTION MILESTONES
 
 The entire model has been formalized into an actionable, closed-loop implementation architecture replicable in any secondary school globally:
@@ -83,8 +107,11 @@ The entire model has been formalized into an actionable, closed-loop implementat
 7. **Safe Prototype Defense & Sandbox Testing:** Student teams defend their functional prototypes before an interdisciplinary judging panel, testing against prompt injection and data privacy breaches.
 8. **Open Educational Packaging (OER):** All implementation playbooks, rubric rubrics, and source prompts are released under the MIT License for open inter-school dissemination from 2027 onward.
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
 
+<a id="section-4"></a>
 ## 🚀 4. THE 4-STAGE IMPLEMENTATION ROADMAP
 
 ```mermaid
@@ -116,8 +143,11 @@ flowchart LR
 * **Standardized 100-Point Rubric:** 65% allocated to Socratic pedagogical fidelity and Zero-PII privacy safety; 35% allocated to usability and curriculum alignment ([View Scoring Rubric](docs/05_AI_Appathon_Scorecard_Rubric_EN.md)).
 * **Iterative Refinement:** Integrating feedback to harden guardrails prior to school-wide classroom deployment.
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
 
+<a id="section-5"></a>
 ## 🛠️ 5. SAFE AI SANDBOX ARCHITECTURE & SOCRATIC PARTS PROMPTING
 
 To eliminate data harvesting and generative hallucinations, the framework enforces a **Controlled Sandbox Architecture**:
@@ -134,8 +164,11 @@ To eliminate data harvesting and generative hallucinations, the framework enforc
 
 👉 **Access and clone the production-ready prompt formulas:** [`templates/Socratic_Prompt_PARTS_Templates_EN.md`](templates/Socratic_Prompt_PARTS_Templates_EN.md)
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
 
+<a id="section-6"></a>
 ## 📊 6. EMPIRICAL RESULTS & COMMITTED TARGETS
 
 The framework has been tested and implemented in practice within the core student pioneer club (VIN BEYOND AI) with demonstrated pedagogical impact:
@@ -150,8 +183,11 @@ The framework has been tested and implemented in practice within the core studen
 
 ![Academic Poster Presentation](assets/Poster.png)
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
 
+<a id="section-7"></a>
 ## 📂 7. REPOSITORY RECOURSE DIRECTORY (OPEN EDUCATIONAL RESOURCES)
 
 All resources are openly accessible for schools and educators worldwide:
@@ -175,9 +211,9 @@ bao-an-ai/
 │   ├── Ho_So_Minh_Chung_Nang_Luc_Cua_Nhom_Du_An_Vin_Beyond_AI.docx      # Project Portfolio & Evidence (VI)
 │   ├── 01_Huong_Dan_Trien_Khai_Hoc_Duong.md   # Step-by-Step K-12 School Guide (Vietnamese)
 │   ├── 01_K12_Implementation_Guide_EN.md     # 4-Stage K-12 Implementation Roadmap (English)
-│   ├── 02_Khung_Cam_Ket_AI_Norms_UNESCO.md    # Ethical AI & Data Privacy Charter (Vietnamese)
+│   ├── 02_Khung_Cam_Ket_AI_Norms_UNESCO.md    # Mẫu bản cam kết văn hóa sử dụng AI an toàn (Tiếng Việt)
 │   ├── 02_UNESCO_AI_Norms_Charter_EN.md       # Ethical AI & Data Privacy Student Charter (English)
-│   ├── 05_AI_Hackathon_Scorecard_Rubric.md    # 100-Point Hackathon Evaluation Rubric (Vietnamese)
+│   ├── 05_AI_Hackathon_Scorecard_Rubric.md    # Bảng tiêu chí chấm điểm cuộc thi ngày hội (Tiếng Việt)
 │   └── 05_AI_Appathon_Scorecard_Rubric_EN.md  # 100-Point Evaluation Rubric (English)
 └── templates/                                 # Ready-to-Use Templates & Prompt Libraries
     ├── Budget_Pitching_PR_Template.md         # Tiered Pitching & Budgeting Template (Vietnamese)
@@ -186,8 +222,11 @@ bao-an-ai/
     └── Socratic_Prompt_PARTS_Templates_EN.md  # Socratic PARTS Prompt Engineering Templates (English)
 ```
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
 
+<a id="section-8"></a>
 ## 📜 8. COPYRIGHT, TRADEMARK & OPEN-SOURCE MIT LICENSE
 
 > **© 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" is protected under the Intellectual Property Law of Vietnam and the Berne Convention.**
@@ -199,8 +238,11 @@ This framework and all associated Open Educational Resources (OER) are published
 * ⚠️ **Trademark Notice:** The MIT License grants rights to the code and educational materials, but explicitly **does NOT** grant any right or license to use the trademark **"BẢO AN AI"™** or commercialize the brand identity without prior written permission from the author.
 * ✅ Zero licensing fees, dedicated to advancing equitable, safe, and human-centered AI education globally.
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
 
+<a id="section-9"></a>
 ## 👨‍🏫 9. AUTHOR & ACADEMIC MENTOR
 
 * **Pham Ba Hong Son (Mike Pham)**
@@ -211,6 +253,8 @@ This framework and all associated Open Educational Resources (OER) are published
 * **Professional Domain:** SAT Educator, EdTech Innovation & Educational Researcher, Ho Chi Minh City, Vietnam.
 * **Email:** mikepham358@gmail.com
 * **GitHub Repository:** [github.com/mikepham358/bao-an-ai](https://github.com/mikepham358/bao-an-ai)
+
+[⬆ Back to Table of Contents](#table-of-contents)
 
 ---
 

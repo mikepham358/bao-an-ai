@@ -20,8 +20,26 @@
 
 > 🔒 **Thông báo bản quyền & Nhãn hiệu:** © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" và Nhãn hiệu "BẢO AN AI"™ được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
 
+<a id="muc-luc"></a>
+### 🧭 CẤU TRÚC ĐIỀU HƯỚNG CÁC PHẦN CỦA MÔ HÌNH
+
+> ⚡ **Điều hướng nhanh:** [📌 Phần 1](#phan-1) • [💡 Phần 2](#phan-2) • [🏗️ Phần 3](#phan-3) • [🚀 Phần 4](#phan-4) • [🛠️ Phần 5](#phan-5) • [📊 Phần 6](#phan-6) • [📂 Phần 7](#phan-7) • [📜 Phần 8](#phan-8) • [👨‍🏫 Phần 9](#phan-9)
+
+| Phần | Đề mục & Biểu tượng | Trọng tâm nội dung | Điều hướng trực tiếp |
+| :---: | :--- | :--- | :---: |
+| **01** | [📌 **1. Tổng quan kiến trúc mô hình**](#phan-1) | Nền tảng gốc & kế thừa thực nghiệm học đường | [👉 Xem Phần 1](#phan-1) |
+| **02** | [💡 **2. Đổi mới tư duy**](#phan-2) | Dũng cảm học từ thử sai, khoa học học tập | [👉 Xem Phần 2](#phan-2) |
+| **03** | [🏗️ **3. Sơ đồ hệ thống hóa**](#phan-3) | 8 Cột mốc hành động cốt lõi của học sinh | [👉 Xem Phần 3](#phan-3) |
+| **04** | [🚀 **4. Hành trình 4 chặng triển khai**](#phan-4) | Gọi vốn, workshop, hackathon, chuyển giao | [👉 Xem Phần 4](#phan-4) |
+| **05** | [🛠️ **5. Môi trường an toàn & Bộ câu lệnh**](#phan-5) | Vùng an toàn Zero-PII, bộ câu lệnh PARTS Socrates | [👉 Xem Phần 5](#phan-5) |
+| **06** | [📊 **6. Kết quả thực nghiệm & Mục tiêu**](#phan-6) | 4 Nguyên mẫu thực tế, Scopus Q1, mở rộng liên trường | [👉 Xem Phần 6](#phan-6) |
+| **07** | [📂 **7. Danh mục hồ sơ & Tài nguyên**](#phan-7) | Toàn bộ tài liệu, slide, cẩm nang và mã nguồn mở | [👉 Xem Phần 7](#phan-7) |
+| **08** | [📜 **8. Bản quyền tác giả & Giấy phép MIT**](#phan-8) | Giấy phép mở MIT, bảo hộ nhãn hiệu BẢO AN AI™ | [👉 Xem Phần 8](#phan-8) |
+| **09** | [👨‍🏫 **9. Tác giả & Giáo viên cố vấn**](#phan-9) | Chuyên gia Google Innovator, thông tin liên hệ | [👉 Xem Phần 9](#phan-9) |
+
 ---
 
+<a id="phan-1"></a>
 ## 📌 1. TỔNG QUAN KIẾN TRÚC MÔ HÌNH: nền tảng gốc & kế thừa thực nghiệm
 
 Trước sự bùng nổ của trí tuệ nhân tạo (AI), người học rất dễ rơi vào thói quen **ỷ lại, nhờ AI làm bài hộ**, dẫn đến lười suy nghĩ và suy giảm tư duy độc lập (hiện tượng khoán tư duy). Các văn bản chỉ đạo của Bộ Giáo dục & Đào tạo (Thông tư 18/2026/TT-BGDĐT, Công văn 2422/BGDĐT-CNTT) và khung năng lực AI của UNESCO đều nhấn mạnh: **nhà trường phải xây dựng văn hóa liêm chính và hướng dẫn người học làm chủ công nghệ một cách an toàn**.
@@ -53,8 +71,11 @@ Hệ sinh thái của đề tài được cấu trúc thành hai tầng liên k�
 [Học sinh tự tin làm chủ công nghệ & Chuyển giao mở rộng liên trường]
 ```
 
+[⬆ Về mục lục](#muc-luc)
+
 ---
 
+<a id="phan-2"></a>
 ## 💡 2. ĐỔI MỚI TƯ DUY: dũng cảm học từ thử sai
 
 Mô hình được xây dựng dựa trên thông điệp xuất phát từ chính một bạn học sinh lớp 12:  
@@ -63,8 +84,11 @@ Mô hình được xây dựng dựa trên thông điệp xuất phát từ chí
 * **Khoa học học tập, "loay hoay hữu ích":** não bộ con người chỉ thực sự ghi nhớ và phát triển khi trải qua quá trình tự vật lộn, suy nghĩ để giải quyết bài toán khó. Nếu AI cho ngay đáp án, việc học sẽ biến mất.
 * **Nguyên tắc gia sư gợi mở (Socrates):** trong mọi ứng dụng học tập, AI chỉ được phép đưa ra các câu hỏi gợi ý nhỏ hoặc manh mối từng bước. Dù học sinh có nài nỉ xin đáp án, AI cũng kiên quyết từ chối khéo léo để bảo vệ cơ hội tự suy nghĩ của người học.
 
+[⬆ Về mục lục](#muc-luc)
+
 ---
 
+<a id="phan-3"></a>
 ## 🏗️ 3. SƠ ĐỒ HỆ THỐNG HÓA MÔ HÌNH
 
 Toàn bộ mô hình đã được đóng gói thành một quy trình khép kín, bài bản và có thể nhân rộng tại bất kỳ trường học hay tổ chức giáo dục nào:
@@ -81,8 +105,11 @@ Toàn bộ mô hình đã được đóng gói thành một quy trình khép kí
 7. **Trình diễn và phản biện:** các đội thi tự tin bảo vệ nguyên mẫu ứng dụng trước hội đồng giám khảo để kiểm tra tính an toàn.
 8. **Đóng gói và chuyển giao:** toàn bộ cẩm nang và mã nguồn được chia sẻ miễn phí dưới dạng Tài nguyên Giáo dục Mở (OER), sẵn sàng chuyển giao cho mạng lưới các trường học và tổ chức giáo dục cùng triển khai từ năm 2027.
 
+[⬆ Về mục lục](#muc-luc)
+
 ---
 
+<a id="phan-4"></a>
 ## 🚀 4. HÀNH TRÌNH 4 CHẶNG TRIỂN KHAI THỰC TẾ
 
 ```mermaid
@@ -114,8 +141,11 @@ flowchart LR
 * **Bộ tiêu chí đánh giá chuẩn hóa:** 65% số điểm dành cho tính sư phạm gợi mở và độ an toàn dữ liệu; 35% số điểm dành cho trải nghiệm dễ dùng và giải quyết trúng nhu cầu học tập ([Xem chi tiết bảng điểm](docs/05_AI_Hackathon_Scorecard_Rubric.md)).
 * **Cải tiến sản phẩm:** tiếp thu nhận xét của ban giám khảo để nâng cấp ứng dụng trước khi áp dụng rộng rãi vào các lớp học.
 
+[⬆ Về mục lục](#muc-luc)
+
 ---
 
+<a id="phan-5"></a>
 ## 🛠️ 5. MÔI TRƯỜNG AN TOÀN & BỘ CÂU LỆNH GIA SƯ MẪU
 
 Để đảm bảo học sinh không bị lộ thông tin cá nhân và AI không bịa đặt kiến thức, mô hình thiết lập **Vùng an toàn có kiểm soát**:
@@ -132,8 +162,11 @@ flowchart LR
 
 👉 **Sao chép và dùng ngay bộ câu lệnh mẫu tại:** [`templates/Socratic_Prompt_PARTS_Templates.md`](templates/Socratic_Prompt_PARTS_Templates.md)
 
+[⬆ Về mục lục](#muc-luc)
+
 ---
 
+<a id="phan-6"></a>
 ## 📊 6. KẾT QUẢ THỰC NGHIỆM & MỤC TIÊU PHÁT TRIỂN
 
 Mô hình đã được thử nghiệm và triển khai thực tế ở cấp độ câu lạc bộ hạt nhân (Dự án VIN BEYOND AI) với các kết quả ấn tượng:
@@ -148,8 +181,11 @@ Mô hình đã được thử nghiệm và triển khai thực tế ở cấp đ
 
 ![Poster giới thiệu sáng kiến](assets/Poster.png)
 
+[⬆ Về mục lục](#muc-luc)
+
 ---
 
+<a id="phan-7"></a>
 ## 📂 7. DANH MỤC HỒ SƠ & TÀI NGUYÊN TRONG BỘ MÃ NGUỒN
 
 Toàn bộ tài liệu chính thức đều có sẵn trong thư mục của kho lưu trữ để các trường tải về sử dụng:
@@ -184,8 +220,11 @@ bao-an-ai/
     └── Socratic_Prompt_PARTS_Templates_EN.md  # Socratic PARTS Prompt Engineering Templates (English)
 ```
 
+[⬆ Về mục lục](#muc-luc)
+
 ---
 
+<a id="phan-8"></a>
 ## 📜 8. BẢN QUYỀN TÁC GIẢ, NHÃN HIỆU & MÃ NGUỒN MỞ (MIT LICENSE)
 
 > **© 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.**
@@ -197,8 +236,11 @@ bao-an-ai/
 * ⚠️ **Điều khoản bảo hộ nhãn hiệu:** giấy phép mã nguồn mở MIT chỉ áp dụng cho mã nguồn và nội dung học liệu chia sẻ; **tuyệt đối không bao gồm** quyền chuyển giao việc sử dụng nhãn hiệu thương mại **"BẢO AN AI"™** hoặc khẩu hiệu độc quyền cho mục đích kinh doanh, thương mại hóa hoặc mạo danh thương hiệu khi chưa có văn bản chấp thuận chính thức từ tác giả.
 * ✅ Hoàn toàn không thu bất kỳ khoản phí bản quyền nào, hướng đến mục tiêu xây dựng một cộng đồng giáo dục an toàn và nhân văn.
 
+[⬆ Về mục lục](#muc-luc)
+
 ---
 
+<a id="phan-9"></a>
 ## 👨‍🏫 9. TÁC GIẢ & GIÁO VIÊN CỐ VẤN CHUYÊN MÔN
 
 * **Phạm Bá Hồng Sơn (Mike Pham)**
@@ -209,6 +251,8 @@ bao-an-ai/
 * **Lĩnh vực hoạt động:** giáo viên bộ môn SAT, cố vấn chuyên môn đổi mới sáng tạo & công nghệ giáo dục, TP. Hồ Chí Minh.
 * **Email liên hệ:** mikepham358@gmail.com
 * **Kho mã nguồn GitHub:** [github.com/mikepham358/bao-an-ai](https://github.com/mikepham358/bao-an-ai)
+
+[⬆ Về mục lục](#muc-luc)
 
 ---
 
