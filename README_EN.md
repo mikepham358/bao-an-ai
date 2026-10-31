@@ -1,3 +1,5 @@
+![Bảo An AI Banner](assets/banner.png)
+
 # AI SAFETY COMPETENCY FRAMEWORK
 ### Open Educational Resources (OER) for K-12 AI Capacity Building & Safe Learning Appathons
 **A Universal Framework for Secondary Schools, Learning Communities & Educational Organizations**  
@@ -159,6 +161,7 @@ bao-an-ai/
 ├── README_EN.md                               # Global Framework Overview & Specifications (English Edition)
 ├── LICENSE                                    # Open-Source MIT License (100% Free Adoption)
 ├── assets/                                    # High-Resolution Schematics & Diagrams
+│   ├── banner.png                            # Official Bảo An AI Hero Banner
 │   ├── He_Thong_Hoa_Mo_Hinh.png              # Complete High-Res System Flowchart (2048x2048)
 │   ├── Poster.png                            # High-Resolution Academic Poster Presentation
 │   ├── framework_diagram.jpg                 # 4-Stage Implementation Overview

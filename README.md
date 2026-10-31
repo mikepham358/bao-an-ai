@@ -1,3 +1,5 @@
+![Bảo An AI Banner](assets/banner.png)
+
 # MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO
 ### (AI Safety Competency Framework)
 **Khung Năng Lực Hội Thảo & Ngày Hội Sáng Tạo Ứng Dụng Học Tập AI An Toàn Dành Cho Học Sinh Phổ Thông**  
@@ -157,6 +159,7 @@ bao-an-ai/
 ├── README_EN.md                               # Global Framework Overview & Specifications (English Edition)
 ├── LICENSE                                    # Bản quyền mã nguồn mở MIT (dùng miễn phí)
 ├── assets/                                    # Hình ảnh và sơ đồ trực quan
+│   ├── banner.png                            # Banner nhận diện thương hiệu Bảo An AI
 │   ├── He_Thong_Hoa_Mo_Hinh.png              # Sơ đồ hệ thống hóa mô hình độ phân giải cao
 │   ├── Poster.png                            # Poster tóm tắt sáng kiến độ phân giải cao
 │   ├── framework_diagram.jpg                 # Sơ đồ tổng thể 4 chặng hành trình
