@@ -6,6 +6,7 @@
 *Incubated by the VIN BEYOND AI Student Pioneer Club — Motto: "Safe AI, Stronger Minds"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Protected: Vietnam IP Law](https://img.shields.io/badge/Protected-Vietnam%20IP%20Law-navy.svg)](#)
 [![Competency Framework: UNESCO 2024](https://img.shields.io/badge/Competency%20Framework-UNESCO%20AI%202024-blue.svg)](https://unesco.org)
 [![Policy: Vietnam MoET](https://img.shields.io/badge/Policy-MoET%20Circular%2018%20%26%20Disp%202422-red.svg)](https://moet.gov.vn)
 [![Target: Students & Educators](https://img.shields.io/badge/Target-Students%20%26%20Educators-green.svg)](#)

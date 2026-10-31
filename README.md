@@ -7,6 +7,7 @@
 *Ươm mầm thực nghiệm từ Câu lạc bộ học sinh tiên phong: VIN BEYOND AI • Khẩu hiệu: "AI an toàn, tư duy vững vàng"*
 
 [![Bản quyền: MIT](https://img.shields.io/badge/B%E1%BA%A3n%20quy%E1%BB%81n-MIT%20License-yellow.svg)](LICENSE)
+[![Bảo hộ: Luật Sở hữu trí tuệ Việt Nam](https://img.shields.io/badge/B%E1%BA%A3o%20h%E1%BB%99-Lu%E1%BA%ADt%20S%E1%BB%9F%20h%E1%BB%AFu%20tr%C3%AD%20tu%E1%BB%87%20Vi%E1%BB%87t%20Nam-navy.svg)](#)
 [![Khung năng lực: UNESCO 2024](https://img.shields.io/badge/Khung%20n%C4%83ng%20l%E1%BB%B1c-UNESCO%20AI%202024-blue.svg)](https://unesco.org)
 [![Chính sách: bộ GD&ĐT](https://img.shields.io/badge/Ch%C3%ADnh%20s%C3%A1ch-B%E1%BB%99%20GD%26%C4%90T%20TT18%20%26%20CV2422-red.svg)](https://moet.gov.vn)
 [![Đối tượng: học sinh & giáo viên](https://img.shields.io/badge/%C4%90%E1%BB%91i%20t%C6%B0%E1%BB%A3ng-H%E1%BB%8Dc%20sinh%20%26%20Gi%C3%A1o%20vi%C3%AAn-green.svg)](#)
