@@ -134,7 +134,7 @@
         position: fixed;
         bottom: 84px;
         right: 24px;
-        width: 375px;
+        width: 385px;
         max-width: calc(100vw - 32px);
         max-height: calc(100vh - 110px);
         background: #ffffff;
@@ -206,6 +206,68 @@
         gap: 12px;
       }
 
+      /* Author Profile Card */
+      .contact-profile-card {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 10px 14px;
+        background: #f6f8fa;
+        border: 1px solid #d0d7de;
+        border-radius: 14px;
+        text-decoration: none !important;
+        color: inherit !important;
+        transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      .contact-profile-card:hover {
+        background: #ffffff;
+        border-color: #0969da;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 14px rgba(9, 105, 218, 0.12);
+      }
+      .profile-avatar {
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        object-fit: cover;
+        flex-shrink: 0;
+        border: 2px solid #0969da;
+        box-shadow: 0 2px 6px rgba(9, 105, 218, 0.2);
+      }
+      .profile-info {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        min-width: 0;
+      }
+      .profile-name {
+        font-size: 13.5px;
+        font-weight: 700;
+        color: #1f2328;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        line-height: 1.25;
+      }
+      .profile-verified-badge {
+        flex-shrink: 0;
+      }
+      .profile-title {
+        font-size: 11.5px;
+        color: #57606a;
+        margin-top: 2px;
+        line-height: 1.3;
+      }
+      .profile-link-label {
+        font-size: 11px;
+        font-weight: 600;
+        color: #0969da;
+        margin-top: 4px;
+        display: flex;
+        align-items: center;
+        gap: 3px;
+      }
+
       /* Contact Channel Cards */
       .contact-channel-card {
         display: flex;
@@ -242,6 +304,7 @@
         align-items: center;
         gap: 12px;
         flex: 1;
+        min-width: 0;
       }
       .channel-avatar {
         width: 38px;
@@ -255,6 +318,7 @@
       .channel-text {
         display: flex;
         flex-direction: column;
+        min-width: 0;
       }
       .channel-name {
         font-size: 14px;
@@ -265,13 +329,21 @@
         font-size: 12px;
         color: #57606a;
         margin-top: 2px;
-        word-break: break-all;
+        white-space: nowrap;
+      }
+      .channel-val-email {
+        white-space: nowrap !important;
+        word-break: keep-all !important;
+        overflow-wrap: normal !important;
+        font-size: 11.5px;
+        letter-spacing: -0.15px;
       }
       .channel-actions {
         display: flex;
         align-items: center;
         gap: 6px;
         margin-left: 8px;
+        flex-shrink: 0;
       }
       .channel-btn-primary {
         padding: 6px 12px;
@@ -429,12 +501,27 @@
         <div class="contact-header">
           <div class="contact-header-info">
             <h3 id="contact-modal-title">Liên hệ &amp; Phản hồi</h3>
-            <p>BẢO AN AI • ThS. Phạm Bá Hồng Sơn</p>
+            <p>Mô hình Năng lực Bảo An AI</p>
           </div>
           <button type="button" class="contact-close-btn" onclick="toggleContactModal(false)" aria-label="Đóng">&times;</button>
         </div>
 
         <div class="contact-body">
+          <!-- Author Profile Card -->
+          <a href="https://edudirectory.withgoogle.com/profiles/5087615831769088" target="_blank" rel="noopener noreferrer" class="contact-profile-card">
+            <img src="{{ "/assets/avatar.jpeg" | relative_url }}" alt="Mike Pham Bá Hong, M.Ed" class="profile-avatar" />
+            <div class="profile-info">
+              <div class="profile-name">
+                <span>Mike Pham Bá Hong, M.Ed</span>
+                <svg class="profile-verified-badge" viewBox="0 0 24 24" width="15" height="15" fill="#0969da" title="Được chứng nhận chính thức bởi Google">
+                  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                </svg>
+              </div>
+              <div class="profile-title">Chuyên gia của Google trong Giáo dục</div>
+              <div class="profile-link-label">Xem Profile chính thức &rarr;</div>
+            </div>
+          </a>
+
           <!-- Zalo Channel Card -->
           <div class="contact-channel-card channel-zalo">
             <div class="channel-info-group">
@@ -466,7 +553,7 @@
               </div>
               <div class="channel-text">
                 <span class="channel-name">Gửi thư điện tử</span>
-                <span class="channel-val">mikepham@baoan.ai.vn</span>
+                <span class="channel-val channel-val-email">mikepham@baoan.ai.vn</span>
               </div>
             </div>
             <div class="channel-actions">
@@ -490,7 +577,7 @@
                 <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
                   <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
                 </svg>
-                Gửi phản hồi cho Thầy Sơn
+                Gửi phản hồi
               </button>
             </form>
           </div>
