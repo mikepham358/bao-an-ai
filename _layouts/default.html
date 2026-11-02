@@ -15,6 +15,396 @@
         display: table;
         width: 100%;
       }
+
+      /* Smart Contact & Feedback Widget */
+      #smart-contact-widget {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        position: relative;
+        z-index: 99999;
+      }
+
+      /* Floating Action Button */
+      .contact-fab {
+        position: fixed;
+        bottom: 24px;
+        right: 24px;
+        background: linear-gradient(135deg, #0969da 0%, #033f8b 100%);
+        color: #ffffff;
+        border: none;
+        border-radius: 50px;
+        padding: 11px 20px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        box-shadow: 0 8px 24px rgba(9, 105, 218, 0.35), 0 2px 6px rgba(0, 0, 0, 0.12);
+        cursor: pointer;
+        transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+        z-index: 100000;
+        outline: none;
+        text-decoration: none;
+      }
+      .contact-fab:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 12px 30px rgba(9, 105, 218, 0.45), 0 4px 10px rgba(0, 0, 0, 0.15);
+        background: linear-gradient(135deg, #0860ca 0%, #022f68 100%);
+      }
+      .contact-fab:active {
+        transform: translateY(0);
+      }
+      .fab-icon-wrapper {
+        position: relative;
+        width: 22px;
+        height: 22px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .fab-icon-chat, .fab-icon-close {
+        position: absolute;
+        transition: transform 0.25s ease, opacity 0.25s ease;
+      }
+      .fab-icon-close {
+        opacity: 0;
+        transform: rotate(-90deg) scale(0.5);
+      }
+      .fab-label {
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 0.2px;
+        white-space: nowrap;
+      }
+      .fab-badge-ping {
+        position: absolute;
+        top: -2px;
+        right: -2px;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background-color: #2da44e;
+        border: 2px solid #ffffff;
+      }
+      .fab-badge-ping::after {
+        content: '';
+        position: absolute;
+        top: -2px;
+        left: -2px;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background-color: #2da44e;
+        animation: pulse-ping 2s cubic-bezier(0, 0, 0.2, 1) infinite;
+      }
+      @keyframes pulse-ping {
+        0% { transform: scale(1); opacity: 0.9; }
+        75%, 100% { transform: scale(2.5); opacity: 0; }
+      }
+
+      /* Modal Active State for FAB */
+      #smart-contact-widget.active .fab-icon-chat {
+        opacity: 0;
+        transform: rotate(90deg) scale(0.5);
+      }
+      #smart-contact-widget.active .fab-icon-close {
+        opacity: 1;
+        transform: rotate(0) scale(1);
+      }
+      #smart-contact-widget.active .contact-fab {
+        background: #24292f;
+        box-shadow: 0 8px 24px rgba(36, 41, 47, 0.35);
+      }
+
+      /* Backdrop */
+      .contact-backdrop {
+        display: none;
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(15, 23, 42, 0.25);
+        backdrop-filter: blur(2px);
+        z-index: 99998;
+        opacity: 0;
+        transition: opacity 0.25s ease;
+      }
+      #smart-contact-widget.active .contact-backdrop {
+        display: block;
+        opacity: 1;
+      }
+
+      /* Modal Popup Window */
+      .contact-modal {
+        position: fixed;
+        bottom: 84px;
+        right: 24px;
+        width: 375px;
+        max-width: calc(100vw - 32px);
+        max-height: calc(100vh - 110px);
+        background: #ffffff;
+        border-radius: 18px;
+        box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2), 0 0 1px rgba(0, 0, 0, 0.15);
+        border: 1px solid #e1e4e8;
+        z-index: 99999;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        opacity: 0;
+        pointer-events: none;
+        transform: translateY(20px) scale(0.96);
+        transform-origin: bottom right;
+        transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      }
+      #smart-contact-widget.active .contact-modal {
+        opacity: 1;
+        pointer-events: auto;
+        transform: translateY(0) scale(1);
+      }
+
+      /* Modal Header */
+      .contact-header {
+        background: linear-gradient(135deg, #0969da 0%, #033f8b 100%);
+        color: #ffffff;
+        padding: 16px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .contact-header-info h3 {
+        font-size: 16px;
+        font-weight: 700;
+        margin: 0;
+        color: #ffffff;
+      }
+      .contact-header-info p {
+        font-size: 12px;
+        opacity: 0.9;
+        margin: 3px 0 0 0;
+        color: #e1ecf8;
+      }
+      .contact-close-btn {
+        background: rgba(255, 255, 255, 0.18);
+        border: none;
+        color: #ffffff;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        line-height: 1;
+        transition: background 0.2s;
+      }
+      .contact-close-btn:hover {
+        background: rgba(255, 255, 255, 0.3);
+      }
+
+      /* Modal Body */
+      .contact-body {
+        padding: 16px 20px;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      /* Contact Channel Cards */
+      .contact-channel-card {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 12px 14px;
+        border-radius: 12px;
+        text-decoration: none !important;
+        color: inherit !important;
+        transition: all 0.2s ease;
+        border: 1px solid #e1e4e8;
+      }
+      .contact-channel-card:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      }
+      .channel-zalo {
+        background-color: #f0f7ff;
+        border-color: #c8e1ff;
+      }
+      .channel-zalo:hover {
+        border-color: #0068ff;
+      }
+      .channel-email {
+        background-color: #fdf6f5;
+        border-color: #fcd7d7;
+      }
+      .channel-email:hover {
+        border-color: #d93025;
+      }
+
+      .channel-info-group {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        flex: 1;
+      }
+      .channel-avatar {
+        width: 38px;
+        height: 38px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+      .channel-text {
+        display: flex;
+        flex-direction: column;
+      }
+      .channel-name {
+        font-size: 14px;
+        font-weight: 700;
+        color: #1f2328;
+      }
+      .channel-val {
+        font-size: 12px;
+        color: #57606a;
+        margin-top: 2px;
+        word-break: break-all;
+      }
+      .channel-actions {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        margin-left: 8px;
+      }
+      .channel-btn-primary {
+        padding: 6px 12px;
+        border-radius: 6px;
+        font-size: 12px;
+        font-weight: 600;
+        border: none;
+        cursor: pointer;
+        white-space: nowrap;
+        text-decoration: none !important;
+        display: inline-flex;
+        align-items: center;
+      }
+      .zalo-btn {
+        background-color: #0068ff;
+        color: #ffffff !important;
+      }
+      .zalo-btn:hover {
+        background-color: #0056d6;
+      }
+      .email-btn {
+        background-color: #d93025;
+        color: #ffffff !important;
+      }
+      .email-btn:hover {
+        background-color: #b52219;
+      }
+      .channel-btn-copy {
+        background: #ffffff;
+        border: 1px solid #d0d7de;
+        color: #24292f;
+        padding: 5px 8px;
+        border-radius: 6px;
+        font-size: 11px;
+        cursor: pointer;
+        transition: all 0.15s;
+        white-space: nowrap;
+      }
+      .channel-btn-copy:hover {
+        background: #f6f8fa;
+        border-color: #1a73e8;
+        color: #1a73e8;
+      }
+
+      /* Quick Message Form Section */
+      .quick-message-section {
+        border-top: 1px dashed #d0d7de;
+        padding-top: 12px;
+        margin-top: 2px;
+      }
+      .quick-message-label {
+        font-size: 12px;
+        font-weight: 600;
+        color: #57606a;
+        margin-bottom: 8px;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+      .contact-input-field {
+        width: 100%;
+        padding: 8px 12px;
+        font-size: 13px;
+        border: 1px solid #d0d7de;
+        border-radius: 8px;
+        box-sizing: border-box;
+        margin-bottom: 8px;
+        font-family: inherit;
+        transition: border-color 0.15s, box-shadow 0.15s;
+      }
+      .contact-input-field:focus {
+        border-color: #0969da;
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+      }
+      .contact-textarea-field {
+        width: 100%;
+        padding: 8px 12px;
+        font-size: 13px;
+        border: 1px solid #d0d7de;
+        border-radius: 8px;
+        box-sizing: border-box;
+        font-family: inherit;
+        resize: vertical;
+        min-height: 65px;
+        margin-bottom: 8px;
+        transition: border-color 0.15s, box-shadow 0.15s;
+      }
+      .contact-textarea-field:focus {
+        border-color: #0969da;
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+      }
+      .contact-submit-button {
+        width: 100%;
+        background: linear-gradient(135deg, #0969da 0%, #033f8b 100%);
+        color: #ffffff;
+        border: none;
+        padding: 9px;
+        border-radius: 8px;
+        font-size: 13px;
+        font-weight: 600;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        transition: background 0.15s, transform 0.1s;
+      }
+      .contact-submit-button:hover {
+        background: linear-gradient(135deg, #0860ca 0%, #022f68 100%);
+      }
+      .contact-submit-button:active {
+        transform: scale(0.99);
+      }
+
+      @media (max-width: 480px) {
+        .contact-fab {
+          bottom: 16px;
+          right: 16px;
+          padding: 10px 16px;
+        }
+        .fab-label {
+          font-size: 13px;
+        }
+        .contact-modal {
+          bottom: 74px;
+          right: 16px;
+          left: 16px;
+          width: auto;
+          max-width: none;
+        }
+      }
     </style>
     {% include head-custom.html %}
   </head>
@@ -28,7 +418,157 @@
       </div>
       {% endif %}
     </div>
+
+    <!-- Smart Contact & Feedback Floating Widget -->
+    <div id="smart-contact-widget">
+      <!-- Backdrop -->
+      <div id="contact-backdrop" class="contact-backdrop" onclick="toggleContactModal(false)"></div>
+
+      <!-- Popup Modal Window -->
+      <div id="contact-modal" class="contact-modal" role="dialog" aria-modal="true" aria-labelledby="contact-modal-title">
+        <div class="contact-header">
+          <div class="contact-header-info">
+            <h3 id="contact-modal-title">Liên hệ &amp; Phản hồi</h3>
+            <p>BẢO AN AI • ThS. Phạm Bá Hồng Sơn</p>
+          </div>
+          <button type="button" class="contact-close-btn" onclick="toggleContactModal(false)" aria-label="Đóng">&times;</button>
+        </div>
+
+        <div class="contact-body">
+          <!-- Zalo Channel Card -->
+          <div class="contact-channel-card channel-zalo">
+            <div class="channel-info-group">
+              <div class="channel-avatar">
+                <svg viewBox="0 0 40 40" width="38" height="38" fill="none">
+                  <rect width="40" height="40" rx="10" fill="#0068FF"/>
+                  <text x="20" y="25" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="900" text-anchor="middle" letter-spacing="-0.5">Zalo</text>
+                </svg>
+              </div>
+              <div class="channel-text">
+                <span class="channel-name">Nhắn tin Zalo</span>
+                <span class="channel-val">090 358 9120</span>
+              </div>
+            </div>
+            <div class="channel-actions">
+              <button type="button" class="channel-btn-copy" onclick="copyContactText(event, '0903589120', this)">Sao chép</button>
+              <a href="https://zalo.me/0903589120" target="_blank" rel="noopener noreferrer" class="channel-btn-primary zalo-btn">Chat ngay</a>
+            </div>
+          </div>
+
+          <!-- Email Channel Card -->
+          <div class="contact-channel-card channel-email">
+            <div class="channel-info-group">
+              <div class="channel-avatar">
+                <svg viewBox="0 0 24 24" width="38" height="38" fill="none">
+                  <rect width="24" height="24" rx="6" fill="#EA4335"/>
+                  <path d="M19 6H5c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 2.5l-7 4.38-7-4.38V8l7 4.38L19 8v.5z" fill="#FFFFFF"/>
+                </svg>
+              </div>
+              <div class="channel-text">
+                <span class="channel-name">Gửi thư điện tử</span>
+                <span class="channel-val">mikepham@baoan.ai.vn</span>
+              </div>
+            </div>
+            <div class="channel-actions">
+              <button type="button" class="channel-btn-copy" onclick="copyContactText(event, 'mikepham@baoan.ai.vn', this)">Sao chép</button>
+              <a href="mailto:mikepham@baoan.ai.vn?subject=[B%E1%BA%A3o%20An%20AI]%20Li%C3%AAn%20h%E1%BB%87%20%26%20Ph%E1%BA%A3n%20h%E1%BB%93i" class="channel-btn-primary email-btn">Gửi thư</a>
+            </div>
+          </div>
+
+          <!-- Quick Feedback Form Section -->
+          <div class="quick-message-section">
+            <div class="quick-message-label">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+                <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/>
+              </svg>
+              Gửi lời nhắn hoặc câu hỏi trực tiếp:
+            </div>
+            <form id="quick-feedback-form" onsubmit="handleSendFeedback(event)">
+              <input type="text" id="fb-sender" placeholder="Họ tên / Trường học / Đơn vị của bạn" required class="contact-input-field" />
+              <textarea id="fb-message" placeholder="Nội dung bạn muốn nhắn gửi, phản hồi hoặc đề xuất hợp tác..." rows="3" required class="contact-textarea-field"></textarea>
+              <button type="submit" class="contact-submit-button">
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+                  <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                </svg>
+                Gửi phản hồi cho Thầy Sơn
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- Floating Action Button (FAB) -->
+      <button id="contact-fab-btn" class="contact-fab" onclick="toggleContactModal()" aria-label="Liên hệ và phản hồi" type="button">
+        <div class="fab-icon-wrapper">
+          <!-- Chat Icon -->
+          <svg class="fab-icon-chat" viewBox="0 0 24 24" width="22" height="22" fill="white">
+            <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 10H6v-2h12v2zm0-3H6V7h12v2z"/>
+          </svg>
+          <!-- Close Icon -->
+          <svg class="fab-icon-close" viewBox="0 0 24 24" width="22" height="22" fill="white">
+            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+          </svg>
+        </div>
+        <span class="fab-label">Liên hệ &bull; Phản hồi</span>
+        <span class="fab-badge-ping"></span>
+      </button>
+    </div>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+    <script>
+      anchors.add();
+
+      function toggleContactModal(forceState) {
+        var widget = document.getElementById('smart-contact-widget');
+        if (typeof forceState === 'boolean') {
+          if (forceState) {
+            widget.classList.add('active');
+          } else {
+            widget.classList.remove('active');
+          }
+        } else {
+          widget.classList.toggle('active');
+        }
+      }
+
+      function copyContactText(e, text, btn) {
+        e.preventDefault();
+        e.stopPropagation();
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(function() {
+            var oldText = btn.innerText;
+            btn.innerText = "✓ Đã chép";
+            btn.style.backgroundColor = "#2da44e";
+            btn.style.color = "#ffffff";
+            btn.style.borderColor = "#2da44e";
+            setTimeout(function() {
+              btn.innerText = oldText;
+              btn.style.backgroundColor = "";
+              btn.style.color = "";
+              btn.style.borderColor = "";
+            }, 2000);
+          }).catch(function() {
+            prompt("Sao chép thông tin:", text);
+          });
+        } else {
+          prompt("Sao chép thông tin:", text);
+        }
+      }
+
+      function handleSendFeedback(e) {
+        e.preventDefault();
+        var sender = document.getElementById('fb-sender').value.trim();
+        var message = document.getElementById('fb-message').value.trim();
+        var subject = encodeURIComponent("[Bảo An AI] Phản hồi từ " + (sender || "bạn đọc"));
+        var body = encodeURIComponent(message + "\n\n---\nNgười gửi: " + sender + "\nĐược gửi qua website: https://baoan.ai.vn");
+        window.location.href = "mailto:mikepham@baoan.ai.vn?subject=" + subject + "&body=" + body;
+      }
+
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+          toggleContactModal(false);
+        }
+      });
+    </script>
   </body>
 </html>
