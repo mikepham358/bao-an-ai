@@ -1,7 +1,5 @@
 ![Bảo An AI Banner](assets/banner.png)
 
-# MÔ HÌNH PHÁT TRIỂN NĂNG LỰC BẢO AN TRÍ TUỆ NHÂN TẠO
-### (AI Safety Competency Framework)
 **Khung Năng Lực Hội Thảo & Ngày Hội Sáng Tạo Ứng Dụng Học Tập AI An Toàn Dành Cho Học Sinh Phổ Thông**  
 *Mô hình phát triển năng lực số và bảo an AI phổ quát, sẵn sàng nhân rộng cho các trường phổ thông và tổ chức giáo dục*  
 *Ươm mầm thực nghiệm từ Câu lạc bộ học sinh tiên phong: VIN BEYOND AI • Khẩu hiệu: "AI an toàn, tư duy vững vàng"*
