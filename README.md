@@ -16,8 +16,6 @@
 
 🌐 **Ngôn ngữ / Languages:** **Tiếng Việt (Bản chuẩn)** | [English (Global Edition)](README_EN.md)
 
-> 🔒 **Thông báo bản quyền & Nhãn hiệu:** © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm "Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)" và Nhãn hiệu "BẢO AN AI"™ được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
-
 <a id="muc-luc"></a>
 ### 🧭 CẤU TRÚC ĐIỀU HƯỚNG CÁC PHẦN CỦA MÔ HÌNH
 
@@ -254,4 +252,15 @@ bao-an-ai/
 
 ---
 
-> *"Bảo An AI, Sáng Tạo Hân Hoan"*
+<table class="footer-legal-card" width="100%">
+  <tr>
+    <td class="footer-legal-text" style="vertical-align: middle;">
+      🔒 <strong>Thông báo bản quyền &amp; Nhãn hiệu:</strong> © 2026 Phạm Bá Hồng Sơn. Bản quyền tác phẩm <em>"Mô hình phát triển năng lực bảo an trí tuệ nhân tạo (AI Safety Competency Framework)"</em> và Nhãn hiệu <strong>"BẢO AN AI"™</strong> được bảo hộ theo Luật Sở hữu trí tuệ Việt Nam.
+      <br><br>
+      <em>"Bảo An AI, Sáng Tạo Hân Hoan"</em>
+    </td>
+    <td class="footer-legal-logo" style="vertical-align: middle; width: 120px; text-align: center;" align="right">
+      <img src="assets/logo.png" alt="Bảo An AI Logo" width="96" height="96" />
+    </td>
+  </tr>
+</table>

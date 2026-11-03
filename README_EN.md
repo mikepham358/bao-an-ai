@@ -18,8 +18,6 @@
 
 🌐 **Languages / Ngôn ngữ:** [Tiếng Việt (Bản chuẩn)](README.md) | **English (Global Edition)**
 
-> 🔒 **Copyright & Trademark Notice:** © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work "AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)" and the Trademark "BẢO AN AI"™ are protected under the Intellectual Property Law of Vietnam and international conventions.
-
 <a id="table-of-contents"></a>
 ### 🧭 FRAMEWORK NAVIGATION & DIRECTORY STRUCTURE
 
@@ -258,4 +256,15 @@ This framework and all associated Open Educational Resources (OER) are published
 
 ---
 
-> *"Bảo An AI, Sáng Tạo Hân Hoan"*
+<table class="footer-legal-card" width="100%">
+  <tr>
+    <td class="footer-legal-text" style="vertical-align: middle;">
+      🔒 <strong>Copyright &amp; Trademark Notice:</strong> © 2026 Pham Ba Hong Son (Mike Pham). Copyright on the work <em>"AI Safety Competency Framework (Mô hình phát triển năng lực bảo an trí tuệ nhân tạo)"</em> and the Trademark <strong>"BẢO AN AI"™</strong> are protected under the Intellectual Property Law of Vietnam and international conventions.
+      <br><br>
+      <em>"Bảo An AI, Sáng Tạo Hân Hoan"</em>
+    </td>
+    <td class="footer-legal-logo" style="vertical-align: middle; width: 120px; text-align: center;" align="right">
+      <img src="assets/logo.png" alt="Bảo An AI Logo" width="96" height="96" />
+    </td>
+  </tr>
+</table>
